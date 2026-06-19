@@ -1,0 +1,84 @@
+{
+  "entities": [
+    {
+      "name": "Ferritin",
+      "type": "Concept"
+    },
+    {
+      "name": "Hemoglobin",
+      "type": "Concept"
+    },
+    {
+      "name": "CRP",
+      "type": "Concept"
+    },
+    {
+      "name": "Anemia",
+      "type": "Concept"
+    },
+    {
+      "name": "Iron Deficiency",
+      "type": "Concept"
+    },
+    {
+      "name": "Fatigue",
+      "type": "Concept"
+    },
+    {
+      "name": "Inflammation",
+      "type": "Concept"
+    },
+    {
+      "name": "Vitamin D Deficiency",
+      "type": "Concept"
+    },
+    {
+      "name": "Hypothyroidism",
+      "type": "Concept"
+    },
+    {
+      "name": "Kidney Disease",
+      "type": "Concept"
+    },
+    {
+      "name": "Diabetes",
+      "type": "Concept"
+    },
+    {
+      "name": "TSH",
+      "type": "Concept"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Ferritin",
+      "relationship": "INDICATES",
+      "target": "Iron Deficiency"
+    },
+    {
+      "source": "Iron Deficiency",
+      "relationship": "CAUSES",
+      "target": "Anemia"
+    },
+    {
+      "source": "Anemia",
+      "relationship": "CAUSES",
+      "target": "Fatigue"
+    },
+    {
+      "source": "CRP",
+      "relationship": "INDICATES",
+      "target": "Inflammation"
+    },
+    {
+      "source": "TSH",
+      "relationship": "ASSOCIATED_WITH",
+      "target": "Hypothyroidism"
+    },
+    {
+      "source": "HbA1c",
+      "relationship": "INDICATES",
+      "target": "Diabetes"
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+test_name,min_value,max_value,unit,category,description
+Hemoglobin,13,17,g/dL,Hematology,Oxygen carrying protein
+Ferritin,30,300,ng/mL,Iron Studies,Iron storage protein
+CRP,0,5,mg/L,Inflammation,Inflammatory marker
+WBC,4,11,10^9/L,Hematology,White blood cell count
+Platelets,150,450,10^9/L,Hematology,Platelet count
+Vitamin D,20,50,ng/mL,Nutrition,Vitamin D status
+TSH,0.4,4.0,mIU/L,Endocrine,Thyroid stimulating hormone
+HbA1c,4,5.6,%,Diabetes,Long-term glucose marker
+Creatinine,0.6,1.3,mg/dL,Renal,Kidney marker
+ALT,7,56,U/L,Liver,Liver enzyme
+Hemoglobin,13,17,g/dL,Hematology,Oxygen carrying protein
+Ferritin,30,300,ng/mL,Iron Studies,Iron storage protein
+CRP,0,5,mg/L,Inflammation,Inflammatory marker
+WBC,4,11,10^9/L,Hematology,White blood cell count
+Platelets,150,450,10^9/L,Hematology,Platelet count
+Vitamin D,20,50,ng/mL,Nutrition,Vitamin D status
+TSH,0.4,4.0,mIU/L,Endocrine,Thyroid stimulating hormone
+HbA1c,4,5.6,%,Diabetes,Long-term glucose marker
+Creatinine,0.6,1.3,mg/dL,Renal,Kidney marker
+ALT,7,56,U/L,Liver,Liver enzyme
+Hemoglobin,13,17,g/dL,Hematology,Oxygen carrying protein
+Ferritin,30,300,ng/mL,Iron Studies,Iron storage protein
+CRP,0,5,mg/L,Inflammation,Inflammatory marker
+WBC,4,11,10^9/L,Hematology,White blood cell count
+Platelets,150,450,10^9/L,Hematology,Platelet count
+Vitamin D,20,50,ng/mL,Nutrition,Vitamin D status
+TSH,0.4,4.0,mIU/L,Endocrine,Thyroid stimulating hormone
+HbA1c,4,5.6,%,Diabetes,Long-term glucose marker
+Creatinine,0.6,1.3,mg/dL,Renal,Kidney marker
+ALT,7,56,U/L,Liver,Liver enzyme
+Hemoglobin,13,17,g/dL,Hematology,Oxygen carrying protein
+Ferritin,30,300,ng/mL,Iron Studies,Iron storage protein
+CRP,0,5,mg/L,Inflammation,Inflammatory marker
+WBC,4,11,10^9/L,Hematology,White blood cell count
+Platelets,150,450,10^9/L,Hematology,Platelet count
+Vitamin D,20,50,ng/mL,Nutrition,Vitamin D status
+TSH,0.4,4.0,mIU/L,Endocrine,Thyroid stimulating hormone
+HbA1c,4,5.6,%,Diabetes,Long-term glucose marker
+Creatinine,0.6,1.3,mg/dL,Renal,Kidney marker
+ALT,7,56,U/L,Liver,Liver enzyme
+Hemoglobin,13,17,g/dL,Hematology,Oxygen carrying protein
+Ferritin,30,300,ng/mL,Iron Studies,Iron storage protein
+CRP,0,5,mg/L,Inflammation,Inflammatory marker
+WBC,4,11,10^9/L,Hematology,White blood cell count
+Platelets,150,450,10^9/L,Hematology,Platelet count
+Vitamin D,20,50,ng/mL,Nutrition,Vitamin D status
+TSH,0.4,4.0,mIU/L,Endocrine,Thyroid stimulating hormone
+HbA1c,4,5.6,%,Diabetes,Long-term glucose marker
+Creatinine,0.6,1.3,mg/dL,Renal,Kidney marker
+ALT,7,56,U/L,Liver,Liver enzyme
+Hemoglobin,13,17,g/dL,Hematology,Oxygen carrying protein
+Ferritin,30,300,ng/mL,Iron Studies,Iron storage protein
+CRP,0,5,mg/L,Inflammation,Inflammatory marker
+WBC,4,11,10^9/L,Hematology,White blood cell count
+Platelets,150,450,10^9/L,Hematology,Platelet count
+Vitamin D,20,50,ng/mL,Nutrition,Vitamin D status
+TSH,0.4,4.0,mIU/L,Endocrine,Thyroid stimulating hormone
+HbA1c,4,5.6,%,Diabetes,Long-term glucose marker
+Creatinine,0.6,1.3,mg/dL,Renal,Kidney marker
+ALT,7,56,U/L,Liver,Liver enzyme
+Hemoglobin,13,17,g/dL,Hematology,Oxygen carrying protein
+Ferritin,30,300,ng/mL,Iron Studies,Iron storage protein
+CRP,0,5,mg/L,Inflammation,Inflammatory marker
+WBC,4,11,10^9/L,Hematology,White blood cell count
+Platelets,150,450,10^9/L,Hematology,Platelet count
+Vitamin D,20,50,ng/mL,Nutrition,Vitamin D status
+TSH,0.4,4.0,mIU/L,Endocrine,Thyroid stimulating hormone
+HbA1c,4,5.6,%,Diabetes,Long-term glucose marker
+Creatinine,0.6,1.3,mg/dL,Renal,Kidney marker
+ALT,7,56,U/L,Liver,Liver enzyme
+Hemoglobin,13,17,g/dL,Hematology,Oxygen carrying protein
+Ferritin,30,300,ng/mL,Iron Studies,Iron storage protein
+CRP,0,5,mg/L,Inflammation,Inflammatory marker
+WBC,4,11,10^9/L,Hematology,White blood cell count
+Platelets,150,450,10^9/L,Hematology,Platelet count
+Vitamin D,20,50,ng/mL,Nutrition,Vitamin D status
+TSH,0.4,4.0,mIU/L,Endocrine,Thyroid stimulating hormone
+HbA1c,4,5.6,%,Diabetes,Long-term glucose marker
+Creatinine,0.6,1.3,mg/dL,Renal,Kidney marker
+ALT,7,56,U/L,Liver,Liver enzyme
+Hemoglobin,13,17,g/dL,Hematology,Oxygen carrying protein
+Ferritin,30,300,ng/mL,Iron Studies,Iron storage protein
+CRP,0,5,mg/L,Inflammation,Inflammatory marker
+WBC,4,11,10^9/L,Hematology,White blood cell count
+Platelets,150,450,10^9/L,Hematology,Platelet count
+Vitamin D,20,50,ng/mL,Nutrition,Vitamin D status
+TSH,0.4,4.0,mIU/L,Endocrine,Thyroid stimulating hormone
+HbA1c,4,5.6,%,Diabetes,Long-term glucose marker
+Creatinine,0.6,1.3,mg/dL,Renal,Kidney marker
+ALT,7,56,U/L,Liver,Liver enzyme
+Hemoglobin,13,17,g/dL,Hematology,Oxygen carrying protein
+Ferritin,30,300,ng/mL,Iron Studies,Iron storage protein
+CRP,0,5,mg/L,Inflammation,Inflammatory marker
+WBC,4,11,10^9/L,Hematology,White blood cell count
+Platelets,150,450,10^9/L,Hematology,Platelet count
+Vitamin D,20,50,ng/mL,Nutrition,Vitamin D status
+TSH,0.4,4.0,mIU/L,Endocrine,Thyroid stimulating hormone
+HbA1c,4,5.6,%,Diabetes,Long-term glucose marker
+Creatinine,0.6,1.3,mg/dL,Renal,Kidney marker
+ALT,7,56,U/L,Liver,Liver enzyme
+Hemoglobin,13,17,g/dL,Hematology,Oxygen carrying protein
+Ferritin,30,300,ng/mL,Iron Studies,Iron storage protein
+CRP,0,5,mg/L,Inflammation,Inflammatory marker
+WBC,4,11,10^9/L,Hematology,White blood cell count
+Platelets,150,450,10^9/L,Hematology,Platelet count
+Vitamin D,20,50,ng/mL,Nutrition,Vitamin D status
+TSH,0.4,4.0,mIU/L,Endocrine,Thyroid stimulating hormone
+HbA1c,4,5.6,%,Diabetes,Long-term glucose marker
+Creatinine,0.6,1.3,mg/dL,Renal,Kidney marker
+ALT,7,56,U/L,Liver,Liver enzyme
+Hemoglobin,13,17,g/dL,Hematology,Oxygen carrying protein
+Ferritin,30,300,ng/mL,Iron Studies,Iron storage protein
+CRP,0,5,mg/L,Inflammation,Inflammatory marker
+WBC,4,11,10^9/L,Hematology,White blood cell count
+Platelets,150,450,10^9/L,Hematology,Platelet count
+Vitamin D,20,50,ng/mL,Nutrition,Vitamin D status
+TSH,0.4,4.0,mIU/L,Endocrine,Thyroid stimulating hormone
+HbA1c,4,5.6,%,Diabetes,Long-term glucose marker
+Creatinine,0.6,1.3,mg/dL,Renal,Kidney marker
+ALT,7,56,U/L,Liver,Liver enzyme
