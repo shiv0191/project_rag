@@ -1,0 +1,43 @@
+{
+  "status": "FAIL",
+  "total_chunks": 213,
+  "contiguous_indices": true,
+  "unique_chunk_ids": true,
+  "duplicate_ids": [],
+  "failure_count": 9,
+  "failures": {
+    "empty_text": [],
+    "over_max_words": [],
+    "heading_only": [],
+    "running_furniture": [
+      53,
+      62,
+      66,
+      79,
+      88,
+      93,
+      115,
+      121,
+      136
+    ],
+    "invalid_pages": [],
+    "reference_interleaving": []
+  },
+  "warnings": {
+    "very_short_under_20_words": [
+      188
+    ],
+    "short_under_60_words": [
+      10,
+      17,
+      25,
+      57,
+      60,
+      75,
+      95,
+      96,
+      188,
+      211
+    ]
+  }
+}

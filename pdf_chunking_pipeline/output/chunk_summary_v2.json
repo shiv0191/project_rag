@@ -1,0 +1,10 @@
+{
+  "total_chunks": 213,
+  "min_words": 8,
+  "max_words": 437,
+  "average_words": 211.06,
+  "chunks_under_min": 10,
+  "chunks_over_max": 0,
+  "rejected_items": 43,
+  "primary_content_pages": 83
+}
