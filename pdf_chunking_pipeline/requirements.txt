@@ -1,0 +1,4 @@
+﻿PyMuPDF==1.28.0
+pymupdf4llm==1.28.0
+# docling
+# marker-pdf

@@ -1,0 +1,479 @@
+{
+  "total_pages": 119,
+  "median_page_characters": 5323,
+  "empty_pages": [],
+  "short_pages": [
+    {
+      "page": 8,
+      "characters": 334
+    }
+  ],
+  "long_pages": [
+    {
+      "page": 84,
+      "characters": 9527
+    },
+    {
+      "page": 85,
+      "characters": 9441
+    },
+    {
+      "page": 88,
+      "characters": 9628
+    },
+    {
+      "page": 90,
+      "characters": 9425
+    },
+    {
+      "page": 91,
+      "characters": 9473
+    },
+    {
+      "page": 92,
+      "characters": 9322
+    },
+    {
+      "page": 93,
+      "characters": 9496
+    },
+    {
+      "page": 94,
+      "characters": 9373
+    },
+    {
+      "page": 95,
+      "characters": 9505
+    },
+    {
+      "page": 97,
+      "characters": 9324
+    },
+    {
+      "page": 100,
+      "characters": 9618
+    },
+    {
+      "page": 101,
+      "characters": 9665
+    },
+    {
+      "page": 103,
+      "characters": 9333
+    },
+    {
+      "page": 105,
+      "characters": 9373
+    },
+    {
+      "page": 106,
+      "characters": 9366
+    },
+    {
+      "page": 108,
+      "characters": 9339
+    }
+  ],
+  "top_repeated_lines": [
+    {
+      "text": "J A C C V O L . 8 7 , N O . 2 2 S , 2 0 2 6 J U N E 9 , 2 0 2 6 : e 1 8 8 9 – e 2 0 0 7",
+      "page_count": 118,
+      "pages": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100,
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119
+      ]
+    },
+    {
+      "text": "### **Synopsis**",
+      "page_count": 31,
+      "pages": [
+        10,
+        13,
+        16,
+        19,
+        20,
+        22,
+        24,
+        29,
+        30,
+        32,
+        34,
+        36,
+        37,
+        38,
+        39,
+        43,
+        49,
+        50,
+        53,
+        55,
+        58,
+        62,
+        63,
+        65,
+        68,
+        71,
+        72,
+        73,
+        75,
+        77,
+        79
+      ]
+    },
+    {
+      "text": "### **Recommendation-Specific Supportive Text**",
+      "page_count": 25,
+      "pages": [
+        15,
+        16,
+        19,
+        21,
+        24,
+        27,
+        30,
+        32,
+        34,
+        36,
+        37,
+        41,
+        47,
+        50,
+        51,
+        55,
+        60,
+        63,
+        65,
+        68,
+        72,
+        73,
+        76,
+        77,
+        79
+      ]
+    },
+    {
+      "text": "2026 AHA/ACC/ADA/ASN CKM Guideline",
+      "page_count": 19,
+      "pages": [
+        3,
+        11,
+        17,
+        21,
+        25,
+        27,
+        31,
+        35,
+        37,
+        39,
+        45,
+        47,
+        49,
+        57,
+        59,
+        69,
+        93,
+        95,
+        109
+      ]
+    },
+    {
+      "text": "Ndumele et al 2026 AHA/ACC/ADA/ASN CKM Guideline",
+      "page_count": 19,
+      "pages": [
+        7,
+        18,
+        23,
+        24,
+        34,
+        36,
+        46,
+        48,
+        54,
+        56,
+        64,
+        66,
+        74,
+        76,
+        80,
+        90,
+        94,
+        106,
+        108
+      ]
+    },
+    {
+      "text": "|---|---|---|",
+      "page_count": 18,
+      "pages": [
+        4,
+        7,
+        18,
+        20,
+        27,
+        29,
+        30,
+        32,
+        34,
+        36,
+        37,
+        39,
+        50,
+        73,
+        74,
+        75,
+        77,
+        79
+      ]
+    },
+    {
+      "text": "|**COR**|**LOE**|**RECOMMENDATIONS**|",
+      "page_count": 12,
+      "pages": [
+        18,
+        20,
+        29,
+        30,
+        34,
+        36,
+        37,
+        39,
+        50,
+        73,
+        75,
+        79
+      ]
+    },
+    {
+      "text": "|---|---|---|---|---|---|---|---|",
+      "page_count": 10,
+      "pages": [
+        110,
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119
+      ]
+    },
+    {
+      "text": "*Economic value statements inform population- and health system–level decisions and are not meant to directly influence clinical decision-making for individual patients.",
+      "page_count": 9,
+      "pages": [
+        34,
+        36,
+        39,
+        44,
+        55,
+        58,
+        62,
+        65,
+        68
+      ]
+    },
+    {
+      "text": "Ndumele et al",
+      "page_count": 7,
+      "pages": [
+        3,
+        11,
+        17,
+        39,
+        47,
+        59,
+        69
+      ]
+    },
+    {
+      "text": "|**COR**<br>**LOE**|**RECOMMENDATIONS**|",
+      "page_count": 7,
+      "pages": [
+        37,
+        55,
+        58,
+        62,
+        64,
+        65,
+        67
+      ]
+    },
+    {
+      "text": "|**Committee**<br>**Member**|**Employment**|**Consultant**|**Speakers**<br>**Bureau**|**Ownership/**<br>**Partnership/**<br>**Principal**|**Personal Research**|**Institutional,**<br>**Organizational, or**<br>**Other Financial**<br>**Beneft**|**Expert Witness**|",
+      "page_count": 7,
+      "pages": [
+        110,
+        111,
+        112,
+        113,
+        114,
+        115,
+        116
+      ]
+    },
+    {
+      "text": "_Continued on the next page_",
+      "page_count": 6,
+      "pages": [
+        9,
+        110,
+        111,
+        112,
+        117,
+        118
+      ]
+    },
+    {
+      "text": "### **APPENDIX 1. CONTINUED**",
+      "page_count": 6,
+      "pages": [
+        111,
+        112,
+        113,
+        114,
+        115,
+        116
+      ]
+    },
+    {
+      "text": "#### **Continued**",
+      "page_count": 5,
+      "pages": [
+        30,
+        37,
+        39,
+        65,
+        77
+      ]
+    },
+    {
+      "text": "**1.** Ndumele CE, Rangaswami J, Chow SL, et al. Cardiovascular-kidney-metabolic health: a presidential advisory from the American Heart Association. _Circulation_ . 2023;148:1606–1635.",
+      "page_count": 5,
+      "pages": [
+        84,
+        85,
+        88,
+        89,
+        95
+      ]
+    }
+  ]
+}
