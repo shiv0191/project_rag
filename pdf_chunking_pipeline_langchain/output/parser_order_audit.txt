@@ -1,0 +1,165 @@
+RAW PARSER ORDER AUDIT
+================================================================================
+
+PAGE 5
+--------------------------------------------------------------------------------
+Ndumele et al e1893 2026 AHA/ACC/ADA/ASN CKM Guideline 
+
+J A C C V O L . 8 7 , N O . 2 2 S , 2 0 2 6 J U N E 9 , 2 0 2 6 : e 1 8 8 9 – e 2 0 0 7 
+
+- adjunctive use of obesity pharmacotherapies and metabolic and bariatric surgery as needed to facilitate weight loss. 
+
+7. **Utilize Cardioprotective Antihyperglycemic Therapies in Diabetes** : Among patients with T2D with CVD or at increased risk for CVD, in addition to lifestyle modification, weight management, and risk factor control, utilization of cardioprotective antihyperglycemic GDMT is recommended, including sodium–glucose cotransporter-2 inhibitors (SGLT2i), glucagon-like peptide-1 (GLP-1)–based therapy, or both, to improve cardiovascular and kidney outcomes. The choice of agent should be guided by clinical comorbidities such as CKD, ASCVD, HF, obesity, severe hyperglycemia, and MASLD. 
+
+8. **Assess for CKD and Utilize Kidney Protective Agents:** Use of both estimated glomerular filtration rate (eGFR) and urine albumin-to-creatinine ratio (UACR) is recommended to characterize CKD and guide the use of kidney-protective agents to confer both cardiovascular and kidney benefits. For patients with CKD and T2D or CKD and albuminuria, reninangiotensin system inhibitors (RASi) and SGLT2i should be used as first-line therapy. If albuminuria persists among patients with CKD and T2D, nonsteroidal mineralocorticoid receptor antagonist (MRA) or a GLP-1–based therapy should be added for further kidney and cardiovascular protection. 
+
+9. **Address CKM Risk Factors in Patients With ASCVD:** Management of ASCVD should emphasize CKM syndrome comorbidities, including obesity treatment through lifestyle modification, pharmacotherapy, and, when appropriate, metabolic and bariatric surgery; the use of cardioprotective antihyperglycemic agents for T2D; and the use of kidney-protective agents for CKD to reduce the risk for adverse cardiovascular events and loss of kidney function. 
+
+10. **Address CKM Risk Factors in Patients With HF:** CKM factors should be incorporated into HF management. For heart failure with reduced ejection fraction (HFrEF), emphasize the cardiovascular and kidney benefits of RASi (angiotensin receptor-neprilysin inhibitors [ARNI], angiotensin-converting enzyme inhibitors [ACEi], angiotensin II receptor blockers [ARB]) and SGLT2i as part of quadruple therapy with beta blockers and steroidal MRAs. For heart failure with mildly reduced ejection fraction (HFmrEF)/heart failure with preserved ejection fraction (HFpEF), use SGLT2i as first-line GDMT, add GLP-1–based therapies in patients with obesity or other CKM risk factors, and consider nonsteroidal MRAs in those with T2D and CKD to reduce adverse cardiovascular events and loss of kidney function. 
+
+### **PREAMBLE** 
+
+Since 1980, the American College of Cardiology (ACC) and American Heart Association (AHA) have translated scientific evidence into clinical practice guidelines with recommendations to improve cardiovascular health. These guidelines, based on systematic methods to evaluate and classify evidence, provide a foundation for delivering high-quality cardiovascular care. When applicable, the guidelines also provide economic value statements that apply cost-effectiveness analyses. The methodology for these economic value statements can be found in the AHA/ACC Statement on Cost Value Methodology.<sup>1</sup> The ACC/AHA Guideline Core Principles and Development Process publication describes best practices for cardiology clinicians and provides additional background on the methodology used in the creation of guidelines.<sup>2</sup> Details about the alignment between the U.S. Food and Drug Administration (FDA) approval processes for drugs and devices and the AHA/ACC guideline methodology can be found in the Guidance for Incorporating FDA Processes publication.<sup>3</sup> Guidelines are intended to define practices meeting the needs of patients in most, but not all, circumstances, and should not replace clinical judgment. The ACC and AHA sponsor the development and publication of clinical practice guidelines without commercial support, and members volunteer their time to the writing and review efforts. Guidelines are the official policy of the ACC and AHA. For some guidelines, the ACC and AHA collaborate with other organizations. 
+
+_Catherine M. Otto, MD, FAHA, FACC Chair, ACC/AHA Joint Committee on Clinical Practice Guidelines_ 
+
+### **1. INTRODUCTION** 
+
+### **1.1. Methodology and Evidence Review** 
+
+The recommendations listed in this guideline are evidence-based whenever possible. An initial extensive evidence review, which included literature derived from research involving human subjects, published in English, and indexed in MEDLINE (through PubMed), EMBASE, the Cochrane Library, the Agency for Healthcare Research and Quality, and other selected databases relevant to this guideline, was conducted from October 2024 to April 2025. Select key studies published through November 2025 were added by the guideline writing committee as appropriate. The final evidence tables summarize the evidence used by the writing committee to formulate recommendations. References selected and published in the present guideline are not all-inclusive.
+
+PAGE 6
+--------------------------------------------------------------------------------
+> e1894 Ndumele et al 2026 AHA/ACC/ADA/ASN CKM Guideline 
+
+J A C C V O L . 8 7 , N O . 2 2 S , 2 0 2 6 J U N E 9 , 2 0 2 6 : e 1 8 8 9 – e 2 0 0 7 
+
+### **1.2. Organization of the Writing Committee** 
+
+The writing committee included representation from general, preventive, and interventional cardiology, endocrinology, nephrology, bariatric surgery, family practice, internal medicine, pediatrics, gastroenterology, cardiovascular epidemiology, health economics, advanced practice nursing, and clinical pharmacology, in addition to patient advocates. The writing committee included representatives from the AHA, ACC, American Diabetes Association (ADA), including ADA Obesity Alliance representation, and the American Society of Nephrology. 
+
+### **1.3. Relationships With Industry and Other Entities** 
+
+The ACC and AHA have rigorous policies and methods to ensure that documents are developed without bias or improper influence. The complete policy on relationships with industry and other entities (RWI) can be found online. Appendix 1 of this guideline lists writing committee members’ comprehensive and relevant RWI. 
+
+### **1.4. Peer Review Committee** 
+
+The Joint Committee appointed a peer review committee to review the guideline. The peer review committee comprised individuals nominated by the ACC, AHA, and the collaborating organizations. Appendix 2 lists reviewers’ comprehensive and relevant RWI. 
+
+interdisciplinary care models to provide patientcentered, harmonized care, as well as the importance of addressing adverse social determinants of health (SDOH) to facilitate the holistic management of CKM syndrome. The guidelines further emphasize lifestyle modification and weight management to address the root cause of CKM syndrome, excess, and dysfunctional adiposity. For those individuals in later CKM stages, the document provides guidance on the use of cardiovascular and kidney-protective therapies with proven benefits and incorporates new updates in cardiovascular risk prediction to inform the targeting of preventive therapies. The guideline also provides statements about the cost value of several therapies indicated for the management of CKM syndrome, with a focus on providing these statements for brand-name medications. While these statements are located next to their related clinical recommendations, they are not intended to inform clinical decision-making for individual patients. 
+
+In developing this guideline, the writing committee reviewed previously published guidelines and other relevant clinical policy statements. **Table 1** contains a list of AHA/ACC publications deemed pertinent to this writing effort and is intended for use as a resource, thus obviating the need to repeat existing guideline recommendations. 
+
+### **1.6. Class of Recommendations and Level of Evidence** 
+
+### **1.5. Scope of the Guideline** 
+
+This guideline is intended to be a resource for clinical and public health professionals. Clinicians should be advised that this guideline retires and replaces the previously published “2013 AHA/ACC/TOS Guideline for the Management of Overweight and Obesity in Adults.” This guideline does not provide recommendations regarding the general prevention and management of the following conditions: blood pressure (BP) management, chronic coronary disease (CCD), dyslipidemia/blood cholesterol, heart failure (HF), or peripheral artery disease (PAD). These topics are the focus of other AHA/ACC guidelines as listed in **Table 1** . 
+
+The primary intended audience for this guideline is clinicians who care for patients across the spectrum of cardiovascular-kidney-metabolic (CKM) syndrome, a condition characterized by the interconnections among metabolic risk factors (including obesity and type 2 diabetes [T2D]), chronic kidney disease (CKD), and cardiovascular disease (CVD).<sup>1</sup> It aims to provide succinct guidance on the diagnosis, staging, treatment, and monitoring of patients with CKM syndrome. The clinical recommendations provided are intended for adults ($18 years of age); recommendations for youths ( _<_ 18 years of age) are anticipated to be the focus of future guideline documents. The guideline emphasizes the use of 
+
+The Class of Recommendation (COR) indicates the strength of recommendation and encompasses the estimated benefit in proportion to risk. The Level of Evidence (LOE) rates the quality of scientific evidence supporting the intervention on the type, quantity, and consistency of data from clinical trials and other sources ( **Table 2** ). 
+
+### **2. DEFINITIONS AND CLASSIFICATION** 
+
+### **2.1. Definitions** 
+
+CKM syndrome is a clinical syndrome with stages from 1 to 4, which are explained in Section 2.3, “CKM Syndrome and Stage Definitions.” The writing committee recognizes that there are many frequently used terms to define the conditions that comprise CKM syndrome, conditions that are commonly observed in patients with CKM syndrome, and therapies that are used to treat CKM syndrome. Therefore, brief definitions are included in this section. 
+
+Guideline-directed medical therapy (GDMT): Encompasses clinical evaluation, diagnostic testing, and both pharmacological and procedural treatments. For these and all recommended drug treatment regimens, the reader should confirm dosage with product insert material and evaluate for contraindications and interactions. Recommendations are limited to drugs, devices, and treatments approved for clinical use in the United States.
+
+PAGE 10
+--------------------------------------------------------------------------------
+> e1898 Ndumele et al 2026 AHA/ACC/ADA/ASN CKM Guideline 
+
+J A C C V O L . 8 7 , N O . 2 2 S , 2 0 2 6 J U N E 9 , 2 0 2 6 : e 1 8 8 9 – e 2 0 0 7 
+
+|**Abbreviations**|**Meaning**|
+|---|---|
+|CI|confdence interval|
+|CKD|chronic kidney disease|
+|CKM|cardiovascular-kidney-metabolic|
+|CVD|cardiovascular disease|
+|DOAC|direct oral anticoagulants|
+|eGFR|estimated glomerular fltration rate|
+|GDM|gestational diabetes mellitus|
+|GDMT|guideline-directed medical therapy|
+|GIP|glucose-dependent insulinotropic polypeptide|
+|GLP-1|glucagon-like peptide-1|
+|GLP-RA|glucagon-like peptide-1 receptor agonist|
+|HbA1c|hemoglobin A1c|
+|HDL-C|high-density lipoprotein cholesterol|
+|HF|heart failure|
+|HFmrEF|heart failure with mildly reduced ejection fraction|
+|HFpEF|heart failure with preserved ejection fraction|
+|HFrEF|heart failure with reduced ejection fraction|
+|HR|hazard ratio|
+|Hs|high-sensitivity|
+|ICER|incremental cost-effectiveness ratio|
+|LDL-C|low-density lipoprotein cholesterol|
+|LSG|laparoscopic sleeve gastrectomy|
+|LVEF|left ventricular ejection fraction|
+|MACE|major adverse cardiovascular event|
+|MASLD|metabolic dysfunction–associated steatotic liver disease|
+|MBS|metabolic and bariatric surgery|
+|MI|myocardial infarction|
+|MRA|mineralocorticoid receptor antagonist|
+|nsMRA|nonsteroidal mineralocorticoid receptor antagonist|
+|NT-proBNP|_N_-terminal prohormone of B-type natriuretic peptide|
+|OR|odds ratio|
+|OSA|obstructive sleep apnea|
+|PAD|peripheral artery disease|
+|PREVENT|PREVENT Predicting Risk of Cardiovascular Disease Events|
+|QALY|quality-adjusted life-year|
+|RAASi|renin-angiotensin-aldosterone system inhibitors|
+|RASi|renin-angiotensin system inhibitors|
+|RCT|randomized controlled trial|
+|RR|relative risk|
+|RYGB|Roux-en-Y gastric bypass|
+|SDOH|Social Determinants of Health|
+|SGLT2i|Sodium–glucose cotransporter-2 inhibitors|
+|T2D|type 2 diabetes|
+|UACR|urine albumin-to-creatinine ratio|
+|VKA|vitamin K antagonist|
+|VTE|venous thromboembolism|
+
+
+
+#### **TABLE 3 CKM Syndrome Definition** 
+
+|**Defnition**|CKM syndrome is a systemic disorder characterized by<br>pathophysiological interactions among metabolic risk<br>factors, CKD, and the cardiovascular system, leading to<br>multiorgan dysfunction and a high rate of adverse<br>cardiovascular outcomes. CKM syndrome includes both<br>individuals at risk for CVD due to the presence of<br>metabolic risk factors, CKD, or both, and individuals with<br>existing CKD or CVD that is potentially related to or<br>complicates metabolic risk factors. The increased<br>likelihood of CKM syndrome and its adverse outcomes is<br>further infuenced by unfavorable conditions for lifestyle<br>and self-care resulting from policies, economics, and the<br>environment.|
+|---|---|
+|**Simplifed**<br>**Defnition**|CKM syndrome is a health disorder due to connections among<br>heart disease, kidney disease, diabetes, and obesity,<br>leading to poor health outcomes.|
+
+
+
+CKD indicates chronic kidney disease; CKM, cardiovascular-kidney-metabolic; and CVD, cardiovascular disease. 
+
+### **2.3. CKM Syndrome and Stage Definitions** 
+
+### **Synopsis** 
+
+The definition of CKM syndrome ( **Table 3** ) reflects the substantial interconnections among metabolic risk factors, CKD, and CVD, and their synergistic impacts on morbidity and mortality, as outlined in the CKM Health Presidential Advisory.<sup>1</sup> The CKM syndrome definition serves as a starting point to define and describe the stages of CKM syndrome, to develop tools to screen and riskstratify individuals for adverse outcomes linked to CKM syndrome, and to identify best practices for addressing CKM syndrome in clinical practice through resultant prompt initiation of evidence-based preventive and treatment strategies.<sup>2</sup> The multisystem interplay highlighted in the CKM syndrome definition further supports the avoidance of siloed subspecialty care for the management of the component conditions within CKM syndrome, emphasizes the importance of screening for CKM syndrome in both primary care and relevant subspecialty clinics, and underscores the value of interdisciplinary collaboration. The definition also recognizes the integral roles of SDOH and lifestyle factors in CKM health promotion and preservation across the life course. Furthermore, a unifying definition facilitates communication between the scientific and lay communities to underscore the importance of identifying CKM syndrome and addressing its interconnected components, through lifestyle modification, weight management, and targeted pharmacotherapies, for advancing public health. 
+
+The timely detection of CKM syndrome conditions with adverse clinical consequences is an important preventive public health opportunity, especially given the availability of multiple therapies with proven efficacy. CKM syndrome stages ( **Figure 1** ) reflect the typical pathophysiologic progression of CKM syndrome, from excess/
+
+PAGE 11
+--------------------------------------------------------------------------------
+Ndumele et al 
+
+e1899 
+
+J A C C V O L . 8 7 , N O . 2 2 S , 2 0 2 6 J U N E 9 , 2 0 2 6 : e 1 8 8 9 – e 2 0 0 7 
+
+2026 AHA/ACC/ADA/ASN CKM Guideline 
+
+**FIGURE 1 Stages of CKM Syndrome** 
+
+
+
+Adapted with permission from Ndumele et al.<sup>1</sup> Copyright 2023 American Heart Association, Inc. The CKM staging construct reflects the progressive pathophysiology and increasing absolute CVD risk along the spectrum of CKM syndrome. Stage 0 includes individuals without CKM syndrome with normal weight, normal glucose, normal blood pressure, normal lipids, normal kidney function, and no evidence of subclinical or clinical CVD; the focus in stage 0 CKM is primordial prevention and preserving cardiovascular health. CKM syndrome stage 1 includes individuals with excess adipose tissue, dysfunctional adipose tissue, or both. Excess adiposity is identified by either weight or abdominal obesity, and dysfunctional adipose tissue is reflected by prediabetes (elevated glucose or impaired glucose tolerance). CKM syndrome stage 2 includes individuals with metabolic risk factors (hypertriglyceridemia, hypertension, metabolic syndrome, or type 2 diabetes), moderate- to highrisk CKD, or both. Although hypertension and CKD are usually downstream of metabolic risk factors, the curved arrows represent individuals with nonmetabolic causes of these conditions; the risk implications and treatment approaches are similar. CKM syndrome stage 3 includes individuals with subclinical CVD with overlapping CKM risk factors (excess/dysfunctional adipose tissue, metabolic risk factors, or CKD) or those with the risk equivalents of very high-risk CKD or high 10-year predicted risk ($20%) using the PREVENT risk equations. CKM syndrome stage 4 includes individuals with clinical CVD (coronary heart disease, HF, stroke, PAD, or atrial fibrillation) overlapping with CKM risk factors. Afib indicates atrial fibrillation; ASCVD, atherosclerotic cardiovascular disease; CHD, coronary heart disease; CKD, chronic kidney disease; CKM, cardiovascular-kidney-metabolic; CVD, cardiovascular disease; HF, heart failure; KDIGO, Kidney Disease: Improving Global Outcomes; PAD, peripheral artery disease; and PREVENT, Predicting Risk of Cardiovascular Disease Events. 
+
+dysfunctional adiposity (stage 1); to the presence of metabolic risk factors, CKD, or both (stage 2); to subclinical CVD, or the risk equivalents of very high-risk CKD or high predicted CVD risk (stage 3); to clinical CVD with concomitant CKM risk factors (stage 4). A healthy lifestyle and weight management are major deterrents to advancing CKM syndrome stages. The staging framework prevents the progression to higher CKM syndrome stages, which include the adverse clinical outcomes of CVD and kidney failure, and highlights the higher absolute CVD risk in later stages, 
+
+when intensified therapeutic approaches will have the greatest net clinical benefit. CVD is a primary focus because it is the clinical outcome with the highest incidence and mortality burden in CKM syndrome. However, CKD is also a key focus, with progressively higher risk of CKD per the KDIGO (Kidney Disease: Improving Global Outcomes) risk classification ( **Figure 2** ) corresponding to later CKM stages, owing to increasing cardiovascular and kidney risk. The diagnostic criteria for CKM syndrome staging among adults are presented in **Table 4** .
