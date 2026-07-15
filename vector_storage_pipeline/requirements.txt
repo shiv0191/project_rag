@@ -1,0 +1,1 @@
+qdrant-client ### to avoid docker desktop on local system using local embedded mode of qdrant vector database
