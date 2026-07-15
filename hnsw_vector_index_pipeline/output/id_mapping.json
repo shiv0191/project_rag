@@ -1,0 +1,610 @@
+{
+    "0": {
+        "chunk_id": "chunk_000000",
+        "text": "\u00aa 2 0 2 6 B Y T H E A M E R I C A N H E A R T A S S O C I A T I O N , I N C , A N D T H E A M E R I C A N C O L L E G E O F C A R D I O L O G Y F O U N D A T I O N P U B L I S H E D B Y E L S E V I E R  \nCLINICAL PRACTICE GUIDELINE 2026 AHA/ACC/ADA/ASN Guideline for the Prevention, Detection, Evaluation, and Management of Cardiovascular-Kidney-Metabolic Syndrome A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines Developed in Collaboration With and Endorsed by the American Diabetes Association, the Obesity Association, a division of the American Diabetes Association, and the American Society of Nephrology  \nWriting Chiadi E. Ndumele, MD, PHD, MHS, FAHA, Chair  \nCommittee Fatima Rodriguez, MD, MPH, FAHA, FACC, Vice Chair *",
+        "page": 1,
+        "metadata": {
+            "structural_index": 0,
+            "source": "data\\ndumele-et-al-2026-2026-aha-acc-ada-asn-guideline-for-the-prevention-detection-evaluation-and-management-of.pdf",
+            "source_name": "ndumele-et-al-2026-2026-aha-acc-ada-asn-guideline-for-the-prevention-detection-evaluation-and-management-of.pdf",
+            "content_type": "retrieval_chunk",
+            "page_number": 1,
+            "page_index": 0,
+            "chunk_index": 0,
+            "token_count": 244,
+            "chunk_size_tokens": 500,
+            "chunk_overlap_tokens": 75,
+            "tokenizer": "cl100k_base",
+            "chunk_id": "chunk_000000"
+        }
+    },
+    "1": {
+        "chunk_id": "chunk_000001",
+        "text": "Members Dave L. Dixon, PHARMD, FAHA, FACC, BCACP, CLS, JC Liaison\u2020 Sadiya S. Khan, MD, MSC, FAHA, FACC, JC Liaison\u2020 Debabrata Mukherjee, MD, MS, FAHA, FACC, JC Liaison\u2021 Mandeep Bajaj, MBBS, FAHA\u00a7 Sripal Bangalore, MD, MHA, FAHA, FACC Biykem Bozkurt, MD, PHD, FAHA, FACC Khadijah Breathett, MD, MS, FAHA, FACC Shoa L. Clarke, MD, PHD, FAHA Ian H. de Boer, MD, MS, FAHA\u2016 Heart Association Executive Committee in March 2026. ation Joint Committee on Clinical Practice Guidelines. J Am Coll Cardiol. 2026;87(22S):e1889\u2013e2007. This article has been copublished in Circulation. elsevier.com). ISSN 0735-1097/$36.00 V O L . 8 7 , N O . 2 2 S , 2 0 2 6 David H. Ellison, MD, FASN, FAHA Lorraine S. Evangelista, PHD, RN, FAHA Sean P. Heffron, MD, MS, MSC, FAHA Dhruv S. Kazi, MD, MSC, MS, FAHA, FACC Ambar Kulshreshtha, MD, PHD, FAHA Ildiko Lingvay, MD, MPH, MSCS, FAHA\u00b6 Cecilia C. Low Wang, MD, FAHA Claudia A. Mercado,# John Maga\u00f1a Morton, MD, MPH, MHA Ian J. Neeland, MD, FAHA Neha Pagidipati, MD, MPH, FAHA, FACC Tiffany M",
+        "page": 1,
+        "metadata": {
+            "structural_index": 0,
+            "source": "data\\ndumele-et-al-2026-2026-aha-acc-ada-asn-guideline-for-the-prevention-detection-evaluation-and-management-of.pdf",
+            "source_name": "ndumele-et-al-2026-2026-aha-acc-ada-asn-guideline-for-the-prevention-detection-evaluation-and-management-of.pdf",
+            "content_type": "retrieval_chunk",
+            "page_number": 1,
+            "page_index": 0,
+            "chunk_index": 1,
+            "token_count": 397,
+            "chunk_size_tokens": 500,
+            "chunk_overlap_tokens": 75,
+            "tokenizer": "cl100k_base",
+            "chunk_id": "chunk_000001"
+        }
+    },
+    "2": {
+        "chunk_id": "chunk_000002",
+        "text": ". Low Wang, MD, FAHA Claudia A. Mercado,# John Maga\u00f1a Morton, MD, MPH, MHA Ian J. Neeland, MD, FAHA Neha Pagidipati, MD, MPH, FAHA, FACC Tiffany M. Powell-Wiley, MD, MPH, FAHA Janani Rangaswami, MD, FAHA https://doi.org/10.1016/j.jacc.2026.03.056 This document was approved by the American College of Cardiology Clinical Policy Approval Committee and the American Heart Association Science Advisory and Coordinating Committee in February 2026, and the American College of Cardiology Science and Quality Committee and the American The American College of Cardiology requests that this document be cited as follows: Ndumele CE, Rodriguez F, Dixon DL, Khan SS, Mukherjee D, Bajaj M, Bangalore S, Bozkurt B, Breathett K, Clarke SL, de Boer IH, Ellison DH, Evangelista LS, Heffron SP, Kazi DS, Kulshreshtha A, Lingvay I, Low Wang CC, Mercado CA, Morton JM, Neeland IJ, Pagidipati N, Powell-Wiley TM, Rangaswami J, Rao G, Reza N, Saeed A, St. Peter W, Starks JB, Sterling M, Talbot AW, Tran AH, Tuttle KR, VanWagner LB, Vest AR, Virani SS. 2026 AHA/ACC/ADA/ASN guideline for the prevention, detection, evaluation, and management of cardiovascular-kidney-metabolic syndrome: a report of the American College of Cardiology/American Heart Associ- Copies: This document is available on the websites of the American College of Cardiology (www.acc.org) and the American Heart Association (www. professional.heart.org). For copies of this document, please contact the Elsevier Inc. Reprint Department via fax (212-633-3820) or e-mail (reprints@ Permissions: Multiple copies, modification, alteration, enhancement, and/or distribution of this document are not permitted without the express permission of the American College of Cardiology. Please contact https://www.elsevier.com/about/policies-and-standards/copyright/permissions.",
+        "page": 1,
+        "metadata": {
+            "structural_index": 0,
+            "source": "data\\ndumele-et-al-2026-2026-aha-acc-ada-asn-guideline-for-the-prevention-detection-evaluation-and-management-of.pdf",
+            "source_name": "ndumele-et-al-2026-2026-aha-acc-ada-asn-guideline-for-the-prevention-detection-evaluation-and-management-of.pdf",
+            "content_type": "retrieval_chunk",
+            "page_number": 1,
+            "page_index": 0,
+            "chunk_index": 2,
+            "token_count": 475,
+            "chunk_size_tokens": 500,
+            "chunk_overlap_tokens": 75,
+            "tokenizer": "cl100k_base",
+            "chunk_id": "chunk_000002"
+        }
+    },
+    "3": {
+        "chunk_id": "chunk_000003",
+        "text": "Goutham Rao, MD, FAHA Nosheen Reza, MD, FAHA, FACC** Anum Saeed, MD, FAHA Wendy St. Peter, PHARMD, FAHA J. Bradley Starks,# Madeline Sterling, MD, MPH, FAHA Amy W. Talbot, MPH\u2020\u2020 Andrew H. Tran, MD, MPH, MS, FAHA Katherine R. Tuttle, MD, FASN, FAHA Lisa B. VanWagner, MD, MSC, FAHA Amanda R. Vest, MBBS, MPH, FAHA, FACC Salim S. Virani, MD, PHD, FAHA, FACC Peer Review Nicole Bhave, MD, FAHA, FACC, Co-Chair Committee Amit Khera, MD, MSC, FAHA, FACC, Members Co-Chair Kevin M. Alexander, MD, FAHA, FACC Alison L. Bailey, MD, FAHA, FACC Marc P. Bonaca, MD, MPH, FAHA, FACC Tara I. Chang, MD, MS, FASN, FAHA\u2016 Cyrille K. Cornelio, PharmD, FAHA Maria Rosa Costanzo, MD, FAHA, FACC Colette DeJong, MD, FAHA Adam DeVore, MD, FAHA, FACC** Patrick O. Gee, Sr., PhD# Beverly B. Green, MD, MPH, FAHA ACC/AHA Joint Catherine M. Otto, MD, FAHA, FACC, Chair Committee on Sunil V. Rao, MD, FACC, FSCAI, Chair-Elect Clinical Practice Guidelines Anastasia Armbruster, PharmD, FACC\u2021 Vanessa Blumer, MD, FACC Leslie L. Davis, PhD, ANP-BC, FAHA, FACC Sharlene M. Day, MD Dave L. Dixon, PharmD, FAHA, FACC, BCACP, CLS Victor A. Ferrari, MD, FAHA, FACC Stephen E. Fremes, MD, FACC Mario F.L. Gaudino, MD, PhD, FAHA, FACC Hani Jneid, MD, FAHA, FACC Heather M",
+        "page": 2,
+        "metadata": {
+            "structural_index": 1,
+            "source": "data\\ndumele-et-al-2026-2026-aha-acc-ada-asn-guideline-for-the-prevention-detection-evaluation-and-management-of.pdf",
+            "source_name": "ndumele-et-al-2026-2026-aha-acc-ada-asn-guideline-for-the-prevention-detection-evaluation-and-management-of.pdf",
+            "content_type": "retrieval_chunk",
+            "page_number": 2,
+            "page_index": 1,
+            "chunk_index": 3,
+            "token_count": 458,
+            "chunk_size_tokens": 500,
+            "chunk_overlap_tokens": 75,
+            "tokenizer": "cl100k_base",
+            "chunk_id": "chunk_000003"
+        }
+    },
+    "4": {
+        "chunk_id": "chunk_000004",
+        "text": ". Dixon, PharmD, FAHA, FACC, BCACP, CLS Victor A. Ferrari, MD, FAHA, FACC Stephen E. Fremes, MD, FACC Mario F.L. Gaudino, MD, PhD, FAHA, FACC Hani Jneid, MD, FAHA, FACC Heather M. Johnson, MD, MS, FAHA, FACC\u2021 *Writing committee members are required to recuse themselves from voting on sections to which their specific relationships with industry and other entities may apply; see Appendix 1 for detailed information. \u2020ACC/AHA Joint Committee on Clinical Practice Guidelines liaison. \u2021Former ACC/AHA Joint Committee on Clinical Practice Guidelines member; current member during the writing effort. \u00a7ADA representative. \u2016ASN representative. \u00b6The Obesity Association representative. #Patient advocate representative. **JCPM representative. \u2020\u2020Former AHA/ACC joint staff; current staff member during the writing effort. Jennifer B. Green, MD, FAHA\u00a7 Scott Kahan, MD, MPH, FAHA\u00b6 Anuradha Lala, MD, FAHA, FACC Melissa Magwire, RN, MSN, FAHA Michael Miller, MD, FAHA, FACC Katie Moegenberg, LPN# Elif Oral, MD, FAHA Carl E. Orringer, MD, FAHA, FACC Kershaw V. Patel, MD, MSCS, FAHA Sonali Patel, MD, PhD, FAHA Jane E.B. Reusch, MD, FAHA Philip Schauer, MD, FAHA Daniel E. Weiner, MD, MS, FASN, FAHA William Schuyler Jones, MD, FACC Sadiya S. Khan, MD, MSc, FAHA, FACC Prateeti Khazanie, MD, MPH, FAHA Michelle M. Kittleson, MD, PhD, FAHA, FACC\u2021 Venugopal Menon, MD, FAHA, FACC Debabrata Mukherjee, MD, MS, FAHA, FACC\u2021 Daniel Munoz, MD, MPA, FACC Kristen K. Patton, MD, FAHA, FACC Garima Sharma, MBBS, FACC Daichi Shimbo, MD Joseph Woo, MD, FAHA, FACC \u2021Former ACC/AHA Joint Committee on Clinical Practice Guidelines member; current member during the writing effort.",
+        "page": 2,
+        "metadata": {
+            "structural_index": 1,
+            "source": "data\\ndumele-et-al-2026-2026-aha-acc-ada-asn-guideline-for-the-prevention-detection-evaluation-and-management-of.pdf",
+            "source_name": "ndumele-et-al-2026-2026-aha-acc-ada-asn-guideline-for-the-prevention-detection-evaluation-and-management-of.pdf",
+            "content_type": "retrieval_chunk",
+            "page_number": 2,
+            "page_index": 1,
+            "chunk_index": 4,
+            "token_count": 499,
+            "chunk_size_tokens": 500,
+            "chunk_overlap_tokens": 75,
+            "tokenizer": "cl100k_base",
+            "chunk_id": "chunk_000004"
+        }
+    },
+    "5": {
+        "chunk_id": "chunk_000005",
+        "text": "ABSTRACT AIM The \u201c2026 AHA/ACC/ADA/ASN Guideline for the Prevention, Detection, Evaluation, and Management of disease, and cardiovascular disease. clinical studies, systematic reviews and meta-analyses, and other evidence conducted on human subjects that were published since 2015 in English from MEDLINE (through PubMed), EMBASE, the Cochrane Library, the Agency for Healthcare Research and Quality, and other selected databases relevant to this guideline. gists, nephrologists, and primary care and specialty clinicians who manage these patients.  \nTABLE OF CONTENTS ABSTRACT . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . e1891 TOP TAKE-HOME MESSAGES . . . . . . . . . . . . . . . . e1892 PREAMBLE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . e1893  \n1. INTRODUCTION . . . . . . . . . . . . . . . . . . . . . . . . . e1893  \n1.1. Methodology and Evidence Review . . . . . . . . . e1893  \n1.2. Organization of the Writing Committee . . . . . . e1894  \n1.3. Relationships With Industry and Other Entities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . e1894  \n1.4. Peer Review Committee . . . . . . . . . . . . . . . . . . . e1894  \n1.5. Scope of the Guideline . . . . . . . . . . . . . . . . . . . . e1894  \n1.6. Class of Recommendations and Level of Evidence . . . . . . . . . . . . . . . . . . . . . . . . e1894  \n2. DEFINITIONS AND CLASSIFICATION . . . . . . . . e1894",
+        "page": 3,
+        "metadata": {
+            "structural_index": 2,
+            "source": "data\\ndumele-et-al-2026-2026-aha-acc-ada-asn-guideline-for-the-prevention-detection-evaluation-and-management-of.pdf",
+            "source_name": "ndumele-et-al-2026-2026-aha-acc-ada-asn-guideline-for-the-prevention-detection-evaluation-and-management-of.pdf",
+            "content_type": "retrieval_chunk",
+            "page_number": 3,
+            "page_index": 2,
+            "chunk_index": 5,
+            "token_count": 458,
+            "chunk_size_tokens": 500,
+            "chunk_overlap_tokens": 75,
+            "tokenizer": "cl100k_base",
+            "chunk_id": "chunk_000005"
+        }
+    },
+    "6": {
+        "chunk_id": "chunk_000006",
+        "text": "1.6. Class of Recommendations and Level of Evidence . . . . . . . . . . . . . . . . . . . . . . . . e1894  \n2. DEFINITIONS AND CLASSIFICATION . . . . . . . . e1894  \n2.1. Definitions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . e1894  \n2.2. Abbreviations . . . . . . . . . . . . . . . . . . . . . . . . . . . e1897  \n2.3. CKM Syndrome and Stage Definitions . . . . . . . e1898  \n2.3.1. Definitions for CKM Stage Components Among Youth . . . . . . . . . . . . . . . . . . . . . . e1901  \n3. EVALUATION AND DIAGNOSIS . . . . . . . . . . . . . e1902  \n3.1. Diagnostic Approach to CKM Staging . . . . . . . . e1902  \n3.1.1. Longitudinal Diagnostic Assessment for All CKM Stages . . . . . . . . . . . . . . . . . . . . . e1904  \n3.2. Social Determinants of Health Assessments . . e1906  \n4. RISK ASSESSMENT . . . . . . . . . . . . . . . . . . . . . . e1908  \n4.1. Quantitative Assessment of CVD Risk . . . . . . . e1908  \n4.2. Risk Enhancers for CKM Syndrome . . . . . . . . . e1910  \n5. GENERAL PRINCIPLES OF CARE IN CKM SYNDROME . . . . . . . . . . . . . . . . . . . . . . . . . . . . e1912  \n5.1. Interdisciplinary Care . . . . . . . . . . . . . . . . . . . . . e1913",
+        "page": 3,
+        "metadata": {
+            "structural_index": 2,
+            "source": "data\\ndumele-et-al-2026-2026-aha-acc-ada-asn-guideline-for-the-prevention-detection-evaluation-and-management-of.pdf",
+            "source_name": "ndumele-et-al-2026-2026-aha-acc-ada-asn-guideline-for-the-prevention-detection-evaluation-and-management-of.pdf",
+            "content_type": "retrieval_chunk",
+            "page_number": 3,
+            "page_index": 2,
+            "chunk_index": 6,
+            "token_count": 463,
+            "chunk_size_tokens": 500,
+            "chunk_overlap_tokens": 75,
+            "tokenizer": "cl100k_base",
+            "chunk_id": "chunk_000006"
+        }
+    },
+    "7": {
+        "chunk_id": "chunk_000007",
+        "text": "5.1. Interdisciplinary Care . . . . . . . . . . . . . . . . . . . . . e1913  \n5.2. CKM Syndrome Stage 0 . . . . . . . . . . . . . . . . . . . e1917  \n5.3. Prevention of CVD in CKM Syndrome . . . . . . . e1917  \n5.4. CKM Syndrome Stage 1 . . . . . . . . . . . . . . . . . . . e1917  \n5.4.1. Overarching Approach to Obesity Management . . . . . . . . . . . . . . . . . . . . . . e1917  \n5.4.2. Intensive Lifestyle Modification for Weight Loss . . . . . . . . . . . . . . . . . . . . . . . e1920  \n5.4.3. Obesity Pharmacotherapy for Weight Management in CKM Syndrome Stage 1 . . . . . . . . . . . . . . . . . . e1922  \n5.4.4. Surgical Interventions for Weight Loss in CKM Syndrome Stage 1 to 3 . . . . . . . . e1924  \n5.4.5. Management After Gestational Diabetes . . . . . . . . . . . . . . . . . . . . . . . . . . e1925  \n5.5. CKM Syndrome Stage 2 . . . . . . . . . . . . . . . . . . . e1926  \n5.5.1. Management of T2D in CKM Syndrome Stage 2 to 3 . . . . . . . . . . . . . . . . . . . . . . . . e1927  \n5.5.2. Hypertriglyceridemia . . . . . . . . . . . . . . . . e1931  \n5.5.3. Hypertension . . . . . . . . . . . . . . . . . . . . . . e1931",
+        "page": 3,
+        "metadata": {
+            "structural_index": 2,
+            "source": "data\\ndumele-et-al-2026-2026-aha-acc-ada-asn-guideline-for-the-prevention-detection-evaluation-and-management-of.pdf",
+            "source_name": "ndumele-et-al-2026-2026-aha-acc-ada-asn-guideline-for-the-prevention-detection-evaluation-and-management-of.pdf",
+            "content_type": "retrieval_chunk",
+            "page_number": 3,
+            "page_index": 2,
+            "chunk_index": 7,
+            "token_count": 464,
+            "chunk_size_tokens": 500,
+            "chunk_overlap_tokens": 75,
+            "tokenizer": "cl100k_base",
+            "chunk_id": "chunk_000007"
+        }
+    },
+    "8": {
+        "chunk_id": "chunk_000008",
+        "text": "5.5.2. Hypertriglyceridemia . . . . . . . . . . . . . . . . e1931  \n5.5.3. Hypertension . . . . . . . . . . . . . . . . . . . . . . e1931  \n5.5.4. Management of CKD in CKM Syndrome Stage 2 to 3 . . . . . . . . . . . . . . . . . . . . . . . . e1932 Cardiovascular-Kidney-Metabolic Syndrome\u201d retires, replaces, and expands upon the \u201c2013 AHA/ACC/TOS Guideline for the Management of Overweight and Obesity in Adults.\u201d The primary intended audience for this guideline is clinicians who care for patients across the spectrum of cardiovascular-kidney-metabolic syndrome, an interrelated condition characterized by the interconnections among metabolic risk factors (including obesity and type 2 diabetes), chronic kidney METHODS A comprehensive literature search was conducted from October 29, 2024, to April 14, 2025, to identify STRUCTURE The focus of this clinical practice guideline is to create a living, working document that provides current knowledge in the field of cardiovascular-kidney-metabolic syndrome aimed at all practicing cardiologists, endocrinolo-",
+        "page": 3,
+        "metadata": {
+            "structural_index": 2,
+            "source": "data\\ndumele-et-al-2026-2026-aha-acc-ada-asn-guideline-for-the-prevention-detection-evaluation-and-management-of.pdf",
+            "source_name": "ndumele-et-al-2026-2026-aha-acc-ada-asn-guideline-for-the-prevention-detection-evaluation-and-management-of.pdf",
+            "content_type": "retrieval_chunk",
+            "page_number": 3,
+            "page_index": 2,
+            "chunk_index": 8,
+            "token_count": 276,
+            "chunk_size_tokens": 500,
+            "chunk_overlap_tokens": 75,
+            "tokenizer": "cl100k_base",
+            "chunk_id": "chunk_000008"
+        }
+    },
+    "9": {
+        "chunk_id": "chunk_000009",
+        "text": "5.6. CKM Syndrome Stage 3 . . . . . . . . . . . . . . . . . . . e1937  \n5.6.1. Use of Markers of Subclinical Atherosclerosis . . . . . . . . . . . . . . . . . . . . . e1937  \n5.6.2 Pre\u2013Heart Failure . . . . . . . . . . . . . . . . . . . e1938  \n6. MANAGEMENT OF CVD IN CKM SYNDROME . . . e1941  \n6.1. CKM Syndrome Stage 4 . . . . . . . . . . . . . . . . . . . e1941  \n6.2. Management of ASCVD . . . . . . . . . . . . . . . . . . . e1941  \n6.2.1. CKM Syndrome Stage 4 With Obesity and ASCVD . . . . . . . . . . . . . . . . . e1943  \n6.2.2. CKM Syndrome Stage 4 With T2D and ASCVD . . . . . . . . . . . . . . . . . . . . e1946  \n6.2.3. CKM Syndrome Stage 4 With CKD and ASCVD . . . . . . . . . . . . . . . . . . . . e1950  \n6.3. Management of HF . . . . . . . . . . . . . . . . . . . . . . e1950  \n6.3.1. CKM Syndrome Stage 4 With Obesity and HF . . . . . . . . . . . . . . . . . . . . e1950  \n6.3.2. CKM Syndrome Stage 4 With T2D and HF . . . . . . . . . . . . . . . . . . . . . . . e1952  \n6.3.3. CKM Syndrome Stage 4 With CKD and HF . . . . . . . . . . . . . . . . . . . . . . . e1955",
+        "page": 4,
+        "metadata": {
+            "structural_index": 3,
+            "source": "data\\ndumele-et-al-2026-2026-aha-acc-ada-asn-guideline-for-the-prevention-detection-evaluation-and-management-of.pdf",
+            "source_name": "ndumele-et-al-2026-2026-aha-acc-ada-asn-guideline-for-the-prevention-detection-evaluation-and-management-of.pdf",
+            "content_type": "retrieval_chunk",
+            "page_number": 4,
+            "page_index": 3,
+            "chunk_index": 9,
+            "token_count": 473,
+            "chunk_size_tokens": 500,
+            "chunk_overlap_tokens": 75,
+            "tokenizer": "cl100k_base",
+            "chunk_id": "chunk_000009"
+        }
+    },
+    "10": {
+        "chunk_id": "chunk_000010",
+        "text": "6.3.3. CKM Syndrome Stage 4 With CKD and HF . . . . . . . . . . . . . . . . . . . . . . . e1955  \n6.4. Atrial Fibrillation . . . . . . . . . . . . . . . . . . . . . . . . e1959  \n6.5. Treating CKM Syndrome in Patients With Advanced CKD . . . . . . . . . . . . . . . . . . . . . . . . . . e1959  \n7. IMPORTANT CONSIDERATIONS . . . . . . . . . . . . e1960  \n7.1. LDL-C Management in CKM Syndrome . . . . . . e1960  \n7.2. Metabolic Dysfunction\u2013Associated Steatotic Liver Disease . . . . . . . . . . . . . . . . . . . . . . . . . . . . e1961  \n7.3. Venous Thromboembolism . . . . . . . . . . . . . . . . e1963  \n7.4. Obstructive Sleep Apnea . . . . . . . . . . . . . . . . . . e1963  \n7.5. Pregnancy and CKM Health . . . . . . . . . . . . . . . . e1964  \n8. MONITORING AND FOLLOW-UP AFTER INITIATION OF THERAPIES . . . . . . . . . . . . . . . . e1967",
+        "page": 4,
+        "metadata": {
+            "structural_index": 3,
+            "source": "data\\ndumele-et-al-2026-2026-aha-acc-ada-asn-guideline-for-the-prevention-detection-evaluation-and-management-of.pdf",
+            "source_name": "ndumele-et-al-2026-2026-aha-acc-ada-asn-guideline-for-the-prevention-detection-evaluation-and-management-of.pdf",
+            "content_type": "retrieval_chunk",
+            "page_number": 4,
+            "page_index": 3,
+            "chunk_index": 10,
+            "token_count": 346,
+            "chunk_size_tokens": 500,
+            "chunk_overlap_tokens": 75,
+            "tokenizer": "cl100k_base",
+            "chunk_id": "chunk_000010"
+        }
+    },
+    "11": {
+        "chunk_id": "chunk_000011",
+        "text": "7.5. Pregnancy and CKM Health . . . . . . . . . . . . . . . . e1964  \n8. MONITORING AND FOLLOW-UP AFTER INITIATION OF THERAPIES . . . . . . . . . . . . . . . . e1967  \n9. EVIDENCE GAPS AND FUTURE DIRECTIONS . . e1969 KEY WORDS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . e1997 REFERENCES . . . . . . . . . . . . . . . . . . . . . . . . . . . . . e1972 APPENDIX 1 Writing Committee Relationships With Industry and Other Entities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . e1998 APPENDIX 2 Reviewer Relationships With Industry and Other Entities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . e2005 TOP TAKE-HOME MESSAGES  \n1. Cardiovascular-Kidney-Metabolic Syndrome Staging: Cardiovascular-kidney-metabolic (CKM) syndrome staging is recommended for youths and adults to prevent CKM stage progression, to tailor therapy to absolute risk, to reduce cardiovascular events and loss of kidney function across the life course, and to promote CKM stage regression through lifestyle changes and weight loss.  \n2. Quantify Risk Using the PREVENT Equations: Individuals at risk for cardiovascular disease (CVD) (CKM syndrome stage 0-3) should have their risk quantified with the PREVENT (Predicting Risk of Cardiovascular Disease EVENTs) equations to estimate 10- and 30-year risk for atherosclerotic cardiovascular disease (ASCVD), heart failure (HF), and total CVD. PREVENT estimates inform CKM syndrome staging, with $20% predicted 10-year CVD risk serving as 1 criterion for CKM syndrome Stage 3. A $7.5% predicted 10-year CVD risk further informs the prioritization of pharmacotherapies for the treatment of CKM syndrome.",
+        "page": 4,
+        "metadata": {
+            "structural_index": 3,
+            "source": "data\\ndumele-et-al-2026-2026-aha-acc-ada-asn-guideline-for-the-prevention-detection-evaluation-and-management-of.pdf",
+            "source_name": "ndumele-et-al-2026-2026-aha-acc-ada-asn-guideline-for-the-prevention-detection-evaluation-and-management-of.pdf",
+            "content_type": "retrieval_chunk",
+            "page_number": 4,
+            "page_index": 3,
+            "chunk_index": 11,
+            "token_count": 481,
+            "chunk_size_tokens": 500,
+            "chunk_overlap_tokens": 75,
+            "tokenizer": "cl100k_base",
+            "chunk_id": "chunk_000011"
+        }
+    },
+    "12": {
+        "chunk_id": "chunk_000012",
+        "text": "3. Routinely Assess for CKM Risk Factors: Routine assessments for metabolic risk factors and kidney function are recommended among all adults, as well as selected assessments for pre-HF, metabolic dysfunction\u2013associated steatotic liver disease (MASLD), and obstructive sleep apnea (OSA) in subsets of individuals.  \n4. Evaluate and Address Social Determinants of Health: Routine assessments for social determinants of health (SDOH) that are closely linked with the development of CKM syndrome and its complications are recommended. Addressing adverse SDOH when identified is a key component of holistic care for CKM syndrome.  \n5. Emphasize Interdisciplinary Care With a CKM Coordination Point Person: Use of interdisciplinary care models for those with overlap among the CKM conditions of type 2 diabetes (T2D), chronic kidney disease (CKD), and CVD is recommended to facilitate patient-centered care. The need for a point person is emphasized, to coordinate efforts of the CKM interdisciplinary team, to facilitate implementation of evidence-based care and guideline-directed medical therapy (GDMT), and to support patients and clinicians.  \n6. Assess and Treat Overweight and Obesity: Assessments for overweight/obesity and abdominal adiposity with both body mass index (BMI) and waist circumference are recommended to characterize risk related to excess adiposity. Overweight and obesity should be addressed to prevent CKM syndrome progression and to promote CKM syndrome regression. Support for lifestyle modification is emphasized, with",
+        "page": 4,
+        "metadata": {
+            "structural_index": 3,
+            "source": "data\\ndumele-et-al-2026-2026-aha-acc-ada-asn-guideline-for-the-prevention-detection-evaluation-and-management-of.pdf",
+            "source_name": "ndumele-et-al-2026-2026-aha-acc-ada-asn-guideline-for-the-prevention-detection-evaluation-and-management-of.pdf",
+            "content_type": "retrieval_chunk",
+            "page_number": 4,
+            "page_index": 3,
+            "chunk_index": 12,
+            "token_count": 301,
+            "chunk_size_tokens": 500,
+            "chunk_overlap_tokens": 75,
+            "tokenizer": "cl100k_base",
+            "chunk_id": "chunk_000012"
+        }
+    },
+    "13": {
+        "chunk_id": "chunk_000013",
+        "text": "adjunctive use of obesity pharmacotherapies and metabolic and bariatric surgery as needed to facilitate weight loss.  \n7. Utilize Cardioprotective Antihyperglycemic Therapies in Diabetes: Among patients with T2D with CVD or at increased risk for CVD, in addition to lifestyle modification, weight management, and risk factor control, utilization of cardioprotective antihyperglycemic GDMT is recommended, including sodium\u2013glucose cotransporter-2 inhibitors (SGLT2i), glucagon-like peptide-1 (GLP-1)\u2013based therapy, or both, to improve cardiovascular and kidney outcomes. The choice of agent should be guided by clinical comorbidities such as CKD, ASCVD, HF, obesity, severe hyperglycemia, and MASLD.  \n8. Assess for CKD and Utilize Kidney Protective Agents: Use of both estimated glomerular filtration rate (eGFR) and urine albumin-to-creatinine ratio (UACR) is recommended to characterize CKD and guide the use of kidney-protective agents to confer both cardiovascular and kidney benefits. For patients with CKD and T2D or CKD and albuminuria, reninangiotensin system inhibitors (RASi) and SGLT2i should be used as first-line therapy. If albuminuria persists among patients with CKD and T2D, nonsteroidal mineralocorticoid receptor antagonist (MRA) or a GLP-1\u2013based therapy should be added for further kidney and cardiovascular protection. teer  \n9. Address CKM Risk Factors in Patients With ASCVD: Management of ASCVD should emphasize CKM syndrome comorbidities, including obesity treatment through lifestyle modification, pharmacotherapy, and, when appropriate, metabolic and bariatric surgery; the use of cardioprotective antihyperglycemic agents for T2D; and the use of kidney-protective agents for CKD to reduce the risk for adverse cardiovascular events and loss of kidney function.",
+        "page": 5,
+        "metadata": {
+            "structural_index": 4,
+            "source": "data\\ndumele-et-al-2026-2026-aha-acc-ada-asn-guideline-for-the-prevention-detection-evaluation-and-management-of.pdf",
+            "source_name": "ndumele-et-al-2026-2026-aha-acc-ada-asn-guideline-for-the-prevention-detection-evaluation-and-management-of.pdf",
+            "content_type": "retrieval_chunk",
+            "page_number": 5,
+            "page_index": 4,
+            "chunk_index": 13,
+            "token_count": 430,
+            "chunk_size_tokens": 500,
+            "chunk_overlap_tokens": 75,
+            "tokenizer": "cl100k_base",
+            "chunk_id": "chunk_000013"
+        }
+    },
+    "14": {
+        "chunk_id": "chunk_000014",
+        "text": "10. Address CKM Risk Factors in Patients With HF: CKM factors should be incorporated into HF management. For heart failure with reduced ejection fraction The (HFrEF), emphasize the cardiovascular and kidney benefits of RASi (angiotensin receptor-neprilysin inhibitors [ARNI], angiotensin-converting enzyme inhibitors [ACEi], angiotensin II receptor blockers [ARB]) and SGLT2i as part of quadruple therapy with beta blockers and steroidal MRAs. For heart failure with mildly reduced ejection fraction (HFmrEF)/heart failure with preserved ejection fraction (HFpEF), use SGLT2i as first-line GDMT, add GLP-1\u2013based therapies in patients with obesity or other CKM risk factors, and consider nonsteroidal MRAs in those with T2D and CKD to reduce adverse cardiovascular events and loss of kidney function. PREAMBLE Since 1980, the American College of Cardiology (ACC) and American Heart Association (AHA) have translated scientific evidence into clinical practice guidelines with recommendations to improve cardiovascular health. These guidelines, based on systematic methods to evaluate and classify evidence, provide a foundation for delivering high-quality cardiovascular care. When applicable, the guidelines also provide economic value statements that apply cost-effectiveness analyses. The methodology for these economic value statements can be found in the AHA/ACC Statement on Cost Value Methodology.1 The ACC/AHA Guideline Core Principles and Development Process publication describes best practices for cardiology clinicians and provides additional background on the methodology used in the creation of guidelines.2 Details about the alignment between the U.S. Food and Drug Administration (FDA) approval processes for drugs and devices and the AHA/ACC guideline methodology can be found in the Guidance for Incorporating FDA Processes publication.3 Guidelines are intended to define practices meeting the needs of patients in most, but not all, circumstances, and should not replace clinical judgment. The ACC and AHA sponsor the development and publication of clinical practice guidelines without commercial support, and members voluntheir time to the writing and review efforts. Guidelines are the official policy of the ACC and AHA. For some guidelines, the ACC and AHA collaborate with other organizations. Catherine M. Otto, MD, FAHA, FACC Chair, ACC/AHA Joint Committee on Clinical Practice Guidelines  \n1. INTRODUCTION",
+        "page": 5,
+        "metadata": {
+            "structural_index": 4,
+            "source": "data\\ndumele-et-al-2026-2026-aha-acc-ada-asn-guideline-for-the-prevention-detection-evaluation-and-management-of.pdf",
+            "source_name": "ndumele-et-al-2026-2026-aha-acc-ada-asn-guideline-for-the-prevention-detection-evaluation-and-management-of.pdf",
+            "content_type": "retrieval_chunk",
+            "page_number": 5,
+            "page_index": 4,
+            "chunk_index": 14,
+            "token_count": 484,
+            "chunk_size_tokens": 500,
+            "chunk_overlap_tokens": 75,
+            "tokenizer": "cl100k_base",
+            "chunk_id": "chunk_000014"
+        }
+    },
+    "15": {
+        "chunk_id": "chunk_000015",
+        "text": "1. INTRODUCTION  \n1.1. Methodology and Evidence Review recommendations listed in this guideline are evidence-based whenever possible. An initial extensive evidence review, which included literature derived from research involving human subjects, published in English, and indexed in MEDLINE (through PubMed), EMBASE, the Cochrane Library, the Agency for Healthcare Research and Quality, and other selected databases relevant to this guideline, was conducted from October 2024 to April  \n2025. Select key studies published through November 2025 were added by the guideline writing committee as appropriate. The final evidence tables summarize the evidence used by the writing committee to formulate recommendations. References selected and published in the present guideline are not all-inclusive.",
+        "page": 5,
+        "metadata": {
+            "structural_index": 4,
+            "source": "data\\ndumele-et-al-2026-2026-aha-acc-ada-asn-guideline-for-the-prevention-detection-evaluation-and-management-of.pdf",
+            "source_name": "ndumele-et-al-2026-2026-aha-acc-ada-asn-guideline-for-the-prevention-detection-evaluation-and-management-of.pdf",
+            "content_type": "retrieval_chunk",
+            "page_number": 5,
+            "page_index": 4,
+            "chunk_index": 15,
+            "token_count": 143,
+            "chunk_size_tokens": 500,
+            "chunk_overlap_tokens": 75,
+            "tokenizer": "cl100k_base",
+            "chunk_id": "chunk_000015"
+        }
+    },
+    "16": {
+        "chunk_id": "chunk_000016",
+        "text": "1.2. Organization of the Writing Committee The writing committee included representation from general, preventive, and interventional cardiology, endocrinology, nephrology, bariatric surgery, family practice, internal medicine, pediatrics, gastroenterology, cardiovascular epidemiology, health economics, advanced practice nursing, and clinical pharmacology, in addition to patient advocates. The writing committee included representatives from the AHA, ACC, American Diabetes Association (ADA), including ADA Obesity Alliance representation, and the American Society of Nephrology.  \n1.3. Relationships With Industry and Other Entities The ACC and AHA have rigorous policies and methods to ensure that documents are developed without bias or improper influence. The complete policy on relationships with industry and other entities (RWI) can be found online. Appendix 1 of this guideline lists writing committee members\u2019 comprehensive and relevant RWI.  \n1.4. Peer Review Committee The Joint Committee appointed a peer review committee to review the guideline. The peer review committee comprised individuals nominated by the ACC, AHA, and the collaborating organizations. Appendix 2 lists reviewers\u2019 comprehensive and relevant RWI.",
+        "page": 6,
+        "metadata": {
+            "structural_index": 5,
+            "source": "data\\ndumele-et-al-2026-2026-aha-acc-ada-asn-guideline-for-the-prevention-detection-evaluation-and-management-of.pdf",
+            "source_name": "ndumele-et-al-2026-2026-aha-acc-ada-asn-guideline-for-the-prevention-detection-evaluation-and-management-of.pdf",
+            "content_type": "retrieval_chunk",
+            "page_number": 6,
+            "page_index": 5,
+            "chunk_index": 16,
+            "token_count": 228,
+            "chunk_size_tokens": 500,
+            "chunk_overlap_tokens": 75,
+            "tokenizer": "cl100k_base",
+            "chunk_id": "chunk_000016"
+        }
+    },
+    "17": {
+        "chunk_id": "chunk_000017",
+        "text": "1.5. Scope of the Guideline This guideline is intended to be a resource for clinical and public health professionals. Clinicians should be advised that this guideline retires and replaces the previously published \u201c2013 AHA/ACC/TOS Guideline for the Management of Overweight and Obesity in Adults.\u201d This guideline does not provide recommendations regarding the general prevention and management of the following conditions: blood pressure (BP) management, chronic coronary disease (CCD), dyslipidemia/blood cholesterol, heart failure (HF), or peripheral artery disease (PAD). These topics are the focus of other AHA/ACC guidelines as listed in Table 1. The primary intended audience for this guideline is clinicians who care for patients across the spectrum of cardiovascular-kidney-metabolic (CKM) syndrome, a condition characterized by the interconnections among metabolic risk factors (including obesity and type 2 diabetes [T2D]), chronic kidney disease (CKD), and cardiovascular disease (CVD).1 It aims to provide succinct guidance on the diagnosis, staging, treatment, and monitoring of patients with CKM syndrome. The clinical recommendations provided are intended for adults ($18 years of age); recommendations for youths (<18 years of age) are anticipated to be the focus of future guideline documents. The guideline emphasizes the use of interdisciplinary care models to provide patientcentered, harmonized care, as well as the importance of addressing adverse social determinants of health (SDOH) to facilitate the holistic management of CKM syndrome. The guidelines further emphasize lifestyle modification and weight management to address the root cause of CKM syndrome, excess, and dysfunctional adiposity. For those individuals in later CKM stages, the document provides guidance on the use of cardiovascular and kidney-protective therapies with proven benefits and incorporates new updates in cardiovascular risk prediction to inform the targeting of preventive therapies. The guideline also provides statements about the cost value of several therapies indicated for the management of CKM syndrome, with a focus on providing these statements for brand-name medications. While these statements are located next to their related clinical recommendations, they are not intended to inform clinical decision-making for individual patients. In developing this guideline, the writing committee reviewed previously published guidelines and other relevant clinical policy statements. Table 1 contains a list of AHA/ACC publications deemed pertinent to this writing effort and is intended for use as a resource, thus obviating the need to repeat existing guideline recommendations.",
+        "page": 6,
+        "metadata": {
+            "structural_index": 5,
+            "source": "data\\ndumele-et-al-2026-2026-aha-acc-ada-asn-guideline-for-the-prevention-detection-evaluation-and-management-of.pdf",
+            "source_name": "ndumele-et-al-2026-2026-aha-acc-ada-asn-guideline-for-the-prevention-detection-evaluation-and-management-of.pdf",
+            "content_type": "retrieval_chunk",
+            "page_number": 6,
+            "page_index": 5,
+            "chunk_index": 17,
+            "token_count": 488,
+            "chunk_size_tokens": 500,
+            "chunk_overlap_tokens": 75,
+            "tokenizer": "cl100k_base",
+            "chunk_id": "chunk_000017"
+        }
+    },
+    "18": {
+        "chunk_id": "chunk_000018",
+        "text": "1.6. Class of Recommendations and Level of Evidence The Class of Recommendation (COR) indicates the strength of recommendation and encompasses the estimated benefit in proportion to risk. The Level of Evidence (LOE) rates the quality of scientific evidence supporting the intervention on the type, quantity, and consistency of data from clinical trials and other sources (Table 2).  \n2. DEFINITIONS AND CLASSIFICATION  \n2.1. Definitions CKM syndrome is a clinical syndrome with stages from 1 to 4, which are explained in Section 2.3, \u201cCKM Syndrome and Stage Definitions.\u201d The writing committee recognizes that there are many frequently used terms to define the conditions that comprise CKM syndrome, conditions that are commonly observed in patients with CKM syndrome, and therapies that are used to treat CKM syndrome. Therefore, brief definitions are included in this section. Guideline-directed medical therapy (GDMT): Encompasses clinical evaluation, diagnostic testing, and both pharmacological and procedural treatments. For these and all recommended drug treatment regimens, the reader should confirm dosage with product insert material and evaluate for contraindications and interactions. Recommendations are limited to drugs, devices, and treatments approved for clinical use in the United States.",
+        "page": 6,
+        "metadata": {
+            "structural_index": 5,
+            "source": "data\\ndumele-et-al-2026-2026-aha-acc-ada-asn-guideline-for-the-prevention-detection-evaluation-and-management-of.pdf",
+            "source_name": "ndumele-et-al-2026-2026-aha-acc-ada-asn-guideline-for-the-prevention-detection-evaluation-and-management-of.pdf",
+            "content_type": "retrieval_chunk",
+            "page_number": 6,
+            "page_index": 5,
+            "chunk_index": 18,
+            "token_count": 248,
+            "chunk_size_tokens": 500,
+            "chunk_overlap_tokens": 75,
+            "tokenizer": "cl100k_base",
+            "chunk_id": "chunk_000018"
+        }
+    },
+    "19": {
+        "chunk_id": "chunk_000019",
+        "text": "Associated AHA/ACC Publications Title Guidelines Primary prevention of CVD Prevention of stroke in patients with stroke and transient ischemic attack Management of HF Management of patients with CCD Management of AF Management of lower extremity PAD Prevention, detection, evaluation, and management of high BP in adults Management of dyslipidemia Other Relevant Documents Value of primordial and primary prevention for CVD Social determinants of risk and outcomes for CVD Promoting risk identification and reduction of CVD in women through collaboration with OB and GYN Use of risk assessment tools to guide decision-making in the primary prevention of ASCVD T2D and HF Cardiovascular considerations in caring for pregnant patients Obesity and CVD OSA and CVD Life\u2019s Essential 8 Nonalcoholic fatty liver disease and cardiovascular risk Comprehensive management of cardiovascular risk factors for adults with T2D CKM health A synopsis of evidence for the science and clinical management of CKM health syndrome Novel prediction equations for absolute risk assessment of total cardiovascular disease incorporating CKM health Person-centered models for cardiovascular care The role of primary care in achieving Life\u2019s Essential 8 Opportunities in the postpartum period to reduce CVD risk after APO Implementation of obesity science into clinical practice Management of obesity in adults with HF Use of risk assessment to guide decision-making for BP management in the primary prevention of CVD Risk-based primary prevention of HF Medical weight management for optimization of cardiovascular health Role of physical activity in obesity treatment and cardiometabolic health Vascular Nursing; SVS, Society for Vascular Surgery; T2D, type 2 diabetes; and VESS, Vascular and Endovascular Surgery Society",
+        "page": 7,
+        "metadata": {
+            "structural_index": 6,
+            "source": "data\\ndumele-et-al-2026-2026-aha-acc-ada-asn-guideline-for-the-prevention-detection-evaluation-and-management-of.pdf",
+            "source_name": "ndumele-et-al-2026-2026-aha-acc-ada-asn-guideline-for-the-prevention-detection-evaluation-and-management-of.pdf",
+            "content_type": "retrieval_chunk",
+            "page_number": 7,
+            "page_index": 6,
+            "chunk_index": 19,
+            "token_count": 324,
+            "chunk_size_tokens": 500,
+            "chunk_overlap_tokens": 75,
+            "tokenizer": "cl100k_base",
+            "chunk_id": "chunk_000019"
+        }
+    },
+    "20": {
+        "chunk_id": "chunk_000020",
+        "text": ". Publication Year Organization (Reference) 20192 ACC/AHA AHA/ASA 20213 AHA/ACC/HFSA 20224 AHA/ACC/ACCP/ASPC/NLA/PCNA 20235 20236 ACC/AHA/ACCP/HRS ACC/AHA/AACVPR/APMA/ABC/SCAI/SVM/SVN/SVS/ 20247 SIR/VESS AHA/ACC/AANP/AAPA/ABC/ACCP/ACPM/AGS/AMA/ 20258 ASPC/NMA/PCNA/SGIM 20269 ACC/AHA/AACVPR/ABC/ACPM/ADA/AGS/APhA/ASPC/ NLA/PCNA AHA 201110 AHA 201511 201812 AHA/ACOG AHA 201913 AHA/HFSA 201914 202015 AHA AHA 202116 AHA 202117 AHA 202218 202219 AHA AHA 202220 AHA 20231 202321 AHA AHA 202322 AHA 202323 202424 AHA AHA 202425 AHA 202426 ACC 202527 202528 AHA 202529 AHA ACC 202630 AHA 202631 AACVPR indicates American Association of Cardiovascular and Pulmonary Rehabilitation; AANP, American Association of Nurse Practitioners; AAPA, American Academy of Physician Associates; ABC, Association of Black Cardiologists; ACC, American College of Cardiology; ACCP, American College of Clinical Pharmacy; ACOG, American College of Obstetricians and Gynecologists; ACPM, American College of Preventive Medicine; ADA, American Diabetes Association; AF, atrial fibrillation; AGS, American Geriatrics Society; AHA, American Heart Association; AMA, American Medical Association; APhA, American Pharmacists Association; APMA, American Podiatric Medical Association; APO, adverse pregnancy outcome; ASA, American Stroke Association; ASPC, American Society for Preventive Cardiology; BP, blood pressure; CCD, chronic coronary disease; CKM, cardiovascular-kidney-metabolic; CVD; cardiovascular disease; GYN, gynecologists; HF, heart failure; HFSA, Heart Failure Society of America; HRS, Heart Rhythm Society; NLA, National",
+        "page": 7,
+        "metadata": {
+            "structural_index": 6,
+            "source": "data\\ndumele-et-al-2026-2026-aha-acc-ada-asn-guideline-for-the-prevention-detection-evaluation-and-management-of.pdf",
+            "source_name": "ndumele-et-al-2026-2026-aha-acc-ada-asn-guideline-for-the-prevention-detection-evaluation-and-management-of.pdf",
+            "content_type": "retrieval_chunk",
+            "page_number": 7,
+            "page_index": 6,
+            "chunk_index": 20,
+            "token_count": 499,
+            "chunk_size_tokens": 500,
+            "chunk_overlap_tokens": 75,
+            "tokenizer": "cl100k_base",
+            "chunk_id": "chunk_000020"
+        }
+    },
+    "21": {
+        "chunk_id": "chunk_000021",
+        "text": "Stroke Association; ASPC, American Society for Preventive Cardiology; BP, blood pressure; CCD, chronic coronary disease; CKM, cardiovascular-kidney-metabolic; CVD; cardiovascular disease; GYN, gynecologists; HF, heart failure; HFSA, Heart Failure Society of America; HRS, Heart Rhythm Society; NLA, National Lipid Association; NMA, National Medical Association; OB, obstetricians; OSA, obstructive sleep apnea; PAD, peripheral artery disease; PCNA, Preventive Cardiovascular Nurses Association; SCAI, Society for Cardiovascular Angiography and Interventions; SGIM, Society of General Internal Medicine; SIR, Society of Interventional Radiology; SVM, Society for Vascular Medicine; SVN, Society for",
+        "page": 7,
+        "metadata": {
+            "structural_index": 6,
+            "source": "data\\ndumele-et-al-2026-2026-aha-acc-ada-asn-guideline-for-the-prevention-detection-evaluation-and-management-of.pdf",
+            "source_name": "ndumele-et-al-2026-2026-aha-acc-ada-asn-guideline-for-the-prevention-detection-evaluation-and-management-of.pdf",
+            "content_type": "retrieval_chunk",
+            "page_number": 7,
+            "page_index": 6,
+            "chunk_index": 21,
+            "token_count": 164,
+            "chunk_size_tokens": 500,
+            "chunk_overlap_tokens": 75,
+            "tokenizer": "cl100k_base",
+            "chunk_id": "chunk_000021"
+        }
+    },
+    "22": {
+        "chunk_id": "chunk_000022",
+        "text": "Diagnostic Testing in Patient Care* (Updated December 2024) Applying Class of Recommendation and Level of Evidence to Clinical Strategies, Interventions, Treatments, or",
+        "page": 8,
+        "metadata": {
+            "structural_index": 7,
+            "source": "data\\ndumele-et-al-2026-2026-aha-acc-ada-asn-guideline-for-the-prevention-detection-evaluation-and-management-of.pdf",
+            "source_name": "ndumele-et-al-2026-2026-aha-acc-ada-asn-guideline-for-the-prevention-detection-evaluation-and-management-of.pdf",
+            "content_type": "retrieval_chunk",
+            "page_number": 8,
+            "page_index": 7,
+            "chunk_index": 22,
+            "token_count": 33,
+            "chunk_size_tokens": 500,
+            "chunk_overlap_tokens": 75,
+            "tokenizer": "cl100k_base",
+            "chunk_id": "chunk_000022"
+        }
+    },
+    "23": {
+        "chunk_id": "chunk_000023",
+        "text": "Additional Definitions for Conditions That Comprise CKM Syndrome Clinical atherosclerotic cardiovascular disease (ASCVD): Includes a history of acute coronary syndromes, myocardial infarction (MI), stable or unstable angina, coronary or other arterial revascularization, stroke, transient ischemic attack, or PAD. Clinical HF: HF with clinical symptomatology including heart failure with reduced ejection fraction (HFrEF), mildly reduced ejection fraction (HFmrEF), and preserved ejection fraction (HFpEF). T2D: Defined as a complex metabolic disorder characterized by resistance to the action of insulin (insulin resistance) and progressive impairment in insulin secretion leading to hyperglycemia. Obesity: Defined as excess body fat that presents a risk to health, diagnosed by a body mass index (BMI) of $30 kg/m2. Abdominal obesity is diagnosed by a waist circumference $88 cm among women or $102 cm among men. CKD: Defined as persistently reduced glomerular filtration (eGFR <60 mL/min/1.73 m2) or evidence of albuminuria (urine albumin-to-creatinine ratio [UACR] $30 mg/g) on at least 2 measurements 3 months apart. Hypertension: Defined as an elevated systolic BP $130 mm Hg or diastolic BP $80 mm Hg based on an average of $2 careful readings obtained on $2 occasions. Kidney Failure: Defined as an eGFR chronically <15 mL/min/1.73 m2 (stage 5 CKD) or a chronic need for renal replacement therapy (dialysis). It is formerly known as \u201cend-stage kidney disease.\u201d Prediabetes: Elevated glucose levels conferring risk for T2D development, defined as a fasting plasma glucose of 100 to 125 mg/dL, impaired glucose tolerance (2-hour glucose, 140-199 mg/dL) on a 75-gram oral glucose tolerance test, or a glycated hemoglobin A1C (HbA1c) of 5.7% to 6.4%. Pre-HF: Defined as the presence of subclinical myocardial disease in terms of structural or functional abnormalities, evidence of increased filling pressure, or elevated cardiac biomarkers, in the absence of clinical HF symptomatology",
+        "page": 9,
+        "metadata": {
+            "structural_index": 8,
+            "source": "data\\ndumele-et-al-2026-2026-aha-acc-ada-asn-guideline-for-the-prevention-detection-evaluation-and-management-of.pdf",
+            "source_name": "ndumele-et-al-2026-2026-aha-acc-ada-asn-guideline-for-the-prevention-detection-evaluation-and-management-of.pdf",
+            "content_type": "retrieval_chunk",
+            "page_number": 9,
+            "page_index": 8,
+            "chunk_index": 23,
+            "token_count": 481,
+            "chunk_size_tokens": 500,
+            "chunk_overlap_tokens": 75,
+            "tokenizer": "cl100k_base",
+            "chunk_id": "chunk_000023"
+        }
+    },
+    "24": {
+        "chunk_id": "chunk_000024",
+        "text": ". Pre-HF: Defined as the presence of subclinical myocardial disease in terms of structural or functional abnormalities, evidence of increased filling pressure, or elevated cardiac biomarkers, in the absence of clinical HF symptomatology. Additional Definitions for Conditions That Are Common in Patients With CKM Syndrome ACEi Metabolic dysfunction\u2013associated steatotic liver dis- APO ease (MASLD): Characterized by hepatic steatosis in the ARB setting of metabolic risk factors such as obesity or T2D ARNI and was recently defined to replace nonalcoholic fatty ASCVD liver disease. BNP Risk Enhancers for CKM Syndrome Progression: Clin- BP ical (eg, chronic inflammatory conditions, a history of CAC adverse pregnancy outcomes [APOs]), social, or de- CCD mographic factors, or a family history of diabetes or kidney failure, which are associated with a higher risk of CKM syndrome progression and may inform preventive therapeutic decisions. While many of these overlap with risk enhancers defined in the ACC/AHA/Multisociety 2026 Dyslipidemia Guideline,1 there are also different factors identified for the 2 related but distinct outcomes (eg, CKM syndrome progression versus ASCVD). Lifestyle, Medical, and Surgical Therapies Used to Treat CKM Syndrome Glucagon-like peptide-1 (GLP-1)\u2013Based Therapy With Proven Benefit: Pharmacologic agents that mimic or enhance the activity of the incretin hormone GLP-1, either alone or as part of a dual agonist that also mimics the activity of the hormone glucose-dependent insulinotropic polypeptide, with evidence for risk reduction in cardiovascular outcome trials. These may also be referred to as \u201cincretin-based\u201d or \u201cincretin-related\u201d therapies. RASi: A class of drugs that inhibit the reninangiotensin system and include angiotensin-converting enzyme inhibitors (ACEi) and angiotensin II receptor blockers (ARB), to lower BP, reduce proteinuria, and prevent progression of CVD and kidney disease. Renin-Angiotensin-Aldosterone System Inhibitors (RAASi): A class of drugs that represent the RASi (eg, ACEi, ARB) and additionally include drugs that inhibit the aldosterone system (eg, MRAs)",
+        "page": 9,
+        "metadata": {
+            "structural_index": 8,
+            "source": "data\\ndumele-et-al-2026-2026-aha-acc-ada-asn-guideline-for-the-prevention-detection-evaluation-and-management-of.pdf",
+            "source_name": "ndumele-et-al-2026-2026-aha-acc-ada-asn-guideline-for-the-prevention-detection-evaluation-and-management-of.pdf",
+            "content_type": "retrieval_chunk",
+            "page_number": 9,
+            "page_index": 8,
+            "chunk_index": 24,
+            "token_count": 477,
+            "chunk_size_tokens": 500,
+            "chunk_overlap_tokens": 75,
+            "tokenizer": "cl100k_base",
+            "chunk_id": "chunk_000024"
+        }
+    },
+    "25": {
+        "chunk_id": "chunk_000025",
+        "text": ". Renin-Angiotensin-Aldosterone System Inhibitors (RAASi): A class of drugs that represent the RASi (eg, ACEi, ARB) and additionally include drugs that inhibit the aldosterone system (eg, MRAs). Metabolic and Bariatric Surgery (MBS): A group of surgical procedures (eg, gastric bypass, sleeve gastrectomy) performed to induce weight loss and improve metabolic health by altering gastrointestinal anatomy and physiology to alter energy balance. Lifestyle Management: Encompasses assessment of each individual\u2019s baseline behavioral habits and provides counseling and support regarding healthy lifestyle modifications. It includes facilitating heart-healthy eating patterns, regular physical activity, avoidance of all nicotine-delivery products, healthy sleep habits, and maintaining a healthy weight. This includes the lifestyle elements of the American Heart Association\u2019s Life\u2019s Essential 8,2-4 in addition to stress management.",
+        "page": 9,
+        "metadata": {
+            "structural_index": 8,
+            "source": "data\\ndumele-et-al-2026-2026-aha-acc-ada-asn-guideline-for-the-prevention-detection-evaluation-and-management-of.pdf",
+            "source_name": "ndumele-et-al-2026-2026-aha-acc-ada-asn-guideline-for-the-prevention-detection-evaluation-and-management-of.pdf",
+            "content_type": "retrieval_chunk",
+            "page_number": 9,
+            "page_index": 8,
+            "chunk_index": 25,
+            "token_count": 183,
+            "chunk_size_tokens": 500,
+            "chunk_overlap_tokens": 75,
+            "tokenizer": "cl100k_base",
+            "chunk_id": "chunk_000025"
+        }
+    },
+    "26": {
+        "chunk_id": "chunk_000026",
+        "text": "2.2. Abbreviations Abbreviations Meaning angiotensin-converting enzyme inhibitors adverse pregnancy outcome angiotensin II receptor blockers angiotensin receptor\u2013neprilysin inhibitor atherosclerotic cardiovascular disease B-type natriuretic peptide blood pressure coronary artery calcium chronic coronary disease Continued on the next page",
+        "page": 9,
+        "metadata": {
+            "structural_index": 8,
+            "source": "data\\ndumele-et-al-2026-2026-aha-acc-ada-asn-guideline-for-the-prevention-detection-evaluation-and-management-of.pdf",
+            "source_name": "ndumele-et-al-2026-2026-aha-acc-ada-asn-guideline-for-the-prevention-detection-evaluation-and-management-of.pdf",
+            "content_type": "retrieval_chunk",
+            "page_number": 9,
+            "page_index": 8,
+            "chunk_index": 26,
+            "token_count": 68,
+            "chunk_size_tokens": 500,
+            "chunk_overlap_tokens": 75,
+            "tokenizer": "cl100k_base",
+            "chunk_id": "chunk_000026"
+        }
+    },
+    "27": {
+        "chunk_id": "chunk_000027",
+        "text": "Abbreviations Meaning CI confidence interval CKD chronic kidney disease CKM cardiovascular-kidney-metabolic CVD cardiovascular disease DOAC direct oral anticoagulants eGFR estimated glomerular filtration rate GDM gestational diabetes mellitus GDMT guideline-directed medical therapy GIP glucose-dependent insulinotropic polypeptide GLP-1 glucagon-like peptide-1 GLP-RA glucagon-like peptide-1 receptor agonist HbA1c hemoglobin A1c HDL-C high-density lipoprotein cholesterol HF heart failure HFmrEF heart failure with mildly reduced ejection fraction HFpEF heart failure with preserved ejection fraction HFrEF heart failure with reduced ejection fraction HR hazard ratio Hs high-sensitivity ICER incremental cost-effectiveness ratio LDL-C low-density lipoprotein cholesterol LSG laparoscopic sleeve gastrectomy LVEF left ventricular ejection fraction MACE major adverse cardiovascular event MASLD metabolic dysfunction\u2013associated steatotic liver disease MBS metabolic and bariatric surgery MI myocardial infarction MRA mineralocorticoid receptor antagonist nsMRA nonsteroidal mineralocorticoid receptor antagonist NT-proBNP N-terminal prohormone of B-type natriuretic peptide OR odds ratio OSA obstructive sleep apnea PAD peripheral artery disease PREVENT PREVENT Predicting Risk of Cardiovascular Disease Events QALY quality-adjusted life-year RAASi renin-angiotensin-aldosterone system inhibitors RASi renin-angiotensin system inhibitors RCT randomized controlled trial RR relative risk RYGB Roux-en-Y gastric bypass SDOH Social Determinants of Health SGLT2i Sodium\u2013glucose cotransporter-2 inhibitors T2D type 2 diabetes UACR urine albumin-to-creatinine ratio VKA vitamin K antagonist VTE venous thromboembolism CKM Syndrome Definition Definition CKM syndrome is a systemic disorder characterized by pathophysiological interactions among metabolic risk factors, CKD, and the cardiovascular system, leading to multiorgan dysfunction and a high rate of adverse cardiovascular outcomes. CKM syndrome includes both individuals at risk for CVD due to the presence of metabolic risk factors, CKD, or both, and individuals with existing CKD or CVD that is potentially related to or complicates metabolic risk factors",
+        "page": 10,
+        "metadata": {
+            "structural_index": 9,
+            "source": "data\\ndumele-et-al-2026-2026-aha-acc-ada-asn-guideline-for-the-prevention-detection-evaluation-and-management-of.pdf",
+            "source_name": "ndumele-et-al-2026-2026-aha-acc-ada-asn-guideline-for-the-prevention-detection-evaluation-and-management-of.pdf",
+            "content_type": "retrieval_chunk",
+            "page_number": 10,
+            "page_index": 9,
+            "chunk_index": 27,
+            "token_count": 477,
+            "chunk_size_tokens": 500,
+            "chunk_overlap_tokens": 75,
+            "tokenizer": "cl100k_base",
+            "chunk_id": "chunk_000027"
+        }
+    },
+    "28": {
+        "chunk_id": "chunk_000028",
+        "text": ". CKM syndrome includes both individuals at risk for CVD due to the presence of metabolic risk factors, CKD, or both, and individuals with existing CKD or CVD that is potentially related to or complicates metabolic risk factors. The increased likelihood of CKM syndrome and its adverse outcomes is further influenced by unfavorable conditions for lifestyle and self-care resulting from policies, economics, and the environment. Simplified CKM syndrome is a health disorder due to connections among Definition heart disease, kidney disease, diabetes, and obesity, leading to poor health outcomes. CKD indicates chronic kidney disease; CKM, cardiovascular-kidney-metabolic; and CVD, cardiovascular disease.",
+        "page": 10,
+        "metadata": {
+            "structural_index": 9,
+            "source": "data\\ndumele-et-al-2026-2026-aha-acc-ada-asn-guideline-for-the-prevention-detection-evaluation-and-management-of.pdf",
+            "source_name": "ndumele-et-al-2026-2026-aha-acc-ada-asn-guideline-for-the-prevention-detection-evaluation-and-management-of.pdf",
+            "content_type": "retrieval_chunk",
+            "page_number": 10,
+            "page_index": 9,
+            "chunk_index": 28,
+            "token_count": 136,
+            "chunk_size_tokens": 500,
+            "chunk_overlap_tokens": 75,
+            "tokenizer": "cl100k_base",
+            "chunk_id": "chunk_000028"
+        }
+    },
+    "29": {
+        "chunk_id": "chunk_000029",
+        "text": "2.3. CKM Syndrome and Stage Definitions  \nSynopsis  \nThe definition of CKM syndrome (Table 3) reflects the substantial interconnections among metabolic risk factors, CKD, and CVD, and their synergistic impacts on morbidity and mortality, as outlined in the CKM Health Presidential Advisory.1 The CKM syndrome definition serves as a starting point to define and describe the stages of CKM syndrome, to develop tools to screen and riskstratify individuals for adverse outcomes linked to CKM syndrome, and to identify best practices for addressing CKM syndrome in clinical practice through resultant prompt initiation of evidence-based preventive and treatment strategies.2 The multisystem interplay highlighted in the CKM syndrome definition further supports the avoidance of siloed subspecialty care for the management of the component conditions within CKM syndrome, emphasizes the importance of screening for CKM syndrome in both primary care and relevant subspecialty clinics, and underscores the value of interdisciplinary collaboration. The definition also recognizes the integral roles of SDOH and lifestyle factors in CKM health promotion and preservation across the life course. Furthermore, a unifying definition facilitates communication between the scientific and lay communities to underscore the importance of identifying CKM syndrome and addressing its interconnected components, through lifestyle modification, weight management, and targeted pharmacotherapies, for advancing public health. The timely detection of CKM syndrome conditions with adverse clinical consequences is an important preventive public health opportunity, especially given the availability of multiple therapies with proven efficacy.  \nCKM syndrome stages (Figure 1) reflect the typical pathophysiologic progression of CKM syndrome, from excess/",
+        "page": 10,
+        "metadata": {
+            "structural_index": 9,
+            "source": "data\\ndumele-et-al-2026-2026-aha-acc-ada-asn-guideline-for-the-prevention-detection-evaluation-and-management-of.pdf",
+            "source_name": "ndumele-et-al-2026-2026-aha-acc-ada-asn-guideline-for-the-prevention-detection-evaluation-and-management-of.pdf",
+            "content_type": "retrieval_chunk",
+            "page_number": 10,
+            "page_index": 9,
+            "chunk_index": 29,
+            "token_count": 325,
+            "chunk_size_tokens": 500,
+            "chunk_overlap_tokens": 75,
+            "tokenizer": "cl100k_base",
+            "chunk_id": "chunk_000029"
+        }
+    },
+    "30": {
+        "chunk_id": "chunk_000030",
+        "text": "Stages of CKM Syndrome artery disease; and PREVENT, Predicting Risk of Cardiovascular Disease Events. dysfunctional adiposity (stage 1); to the presence of metabolic risk factors, CKD, or both (stage 2); to subclinical CVD, or the risk equivalents of very high-risk CKD or high predicted CVD risk (stage 3); to clinical CVD with concomitant CKM risk factors (stage 4). A healthy lifestyle and weight management are major deterrents to advancing CKM syndrome stages. The staging framework prevents the progression to higher CKM syndrome stages, which include the adverse clinical outcomes of CVD and kidney failure, and highlights the higher absolute CVD risk in later stages, when intensified therapeutic approaches will have the greatest net clinical benefit. CVD is a primary focus because it is the clinical outcome with the highest incidence and mortality burden in CKM syndrome. However, CKD is also a key focus, with progressively higher risk of CKD per the KDIGO (Kidney Disease: Improving Global Outcomes) risk classification  \n(Figure 2) corresponding to later CKM stages, owing to increasing cardiovascular and kidney risk. The diagnostic criteria for CKM syndrome staging among adults",
+        "page": 11,
+        "metadata": {
+            "structural_index": 10,
+            "source": "data\\ndumele-et-al-2026-2026-aha-acc-ada-asn-guideline-for-the-prevention-detection-evaluation-and-management-of.pdf",
+            "source_name": "ndumele-et-al-2026-2026-aha-acc-ada-asn-guideline-for-the-prevention-detection-evaluation-and-management-of.pdf",
+            "content_type": "retrieval_chunk",
+            "page_number": 11,
+            "page_index": 10,
+            "chunk_index": 30,
+            "token_count": 248,
+            "chunk_size_tokens": 500,
+            "chunk_overlap_tokens": 75,
+            "tokenizer": "cl100k_base",
+            "chunk_id": "chunk_000030"
+        }
+    },
+    "31": {
+        "chunk_id": "chunk_000031",
+        "text": "(Figure 2) corresponding to later CKM stages, owing to increasing cardiovascular and kidney risk. The diagnostic criteria for CKM syndrome staging among adults  \nare presented in Table 4. Adapted with permission from Ndumele et al.1 Copyright 2023 American Heart Association, Inc. The CKM staging construct reflects the progressive pathophysiology and increasing absolute CVD risk along the spectrum of CKM syndrome. Stage 0 includes individuals without CKM syndrome with normal weight, normal glucose, normal blood pressure, normal lipids, normal kidney function, and no evidence of subclinical or clinical CVD; the focus in stage 0 CKM is primordial prevention and preserving cardiovascular health. CKM syndrome stage 1 includes individuals with excess adipose tissue, dysfunctional adipose tissue, or both. Excess adiposity is identified by either weight or abdominal obesity, and dysfunctional adipose tissue is reflected by prediabetes (elevated glucose or impaired glucose tolerance). CKM syndrome stage 2 includes individuals with metabolic risk factors (hypertriglyceridemia, hypertension, metabolic syndrome, or type 2 diabetes), moderate- to highrisk CKD, or both. Although hypertension and CKD are usually downstream of metabolic risk factors, the curved arrows represent individuals with nonmetabolic causes of these conditions; the risk implications and treatment approaches are similar. CKM syndrome stage 3 includes individuals with subclinical CVD with overlapping CKM risk factors (excess/dysfunctional adipose tissue, metabolic risk factors, or CKD) or those with the risk equivalents of very high-risk CKD or high 10-year predicted risk ($20%) using the PREVENT risk equations. CKM syndrome stage 4 includes individuals with clinical CVD (coronary heart disease, HF, stroke, PAD, or atrial fibrillation) overlapping with CKM risk factors. Afib indicates atrial fibrillation; ASCVD, atherosclerotic cardiovascular disease; CHD, coronary heart disease; CKD, chronic kidney disease; CKM, cardiovascular-kidney-metabolic; CVD, cardiovascular disease; HF, heart failure; KDIGO, Kidney Disease: Improving Global Outcomes; PAD, peripheral",
+        "page": 11,
+        "metadata": {
+            "structural_index": 10,
+            "source": "data\\ndumele-et-al-2026-2026-aha-acc-ada-asn-guideline-for-the-prevention-detection-evaluation-and-management-of.pdf",
+            "source_name": "ndumele-et-al-2026-2026-aha-acc-ada-asn-guideline-for-the-prevention-detection-evaluation-and-management-of.pdf",
+            "content_type": "retrieval_chunk",
+            "page_number": 11,
+            "page_index": 10,
+            "chunk_index": 31,
+            "token_count": 450,
+            "chunk_size_tokens": 500,
+            "chunk_overlap_tokens": 75,
+            "tokenizer": "cl100k_base",
+            "chunk_id": "chunk_000031"
+        }
+    }
+}
