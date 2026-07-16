@@ -88,15 +88,24 @@ class QdrantStore:
 
             for index, record in enumerate(batch, start=start):
 
+                metadata = record["metadata"]
+
                 payload = {
 
+                    # Primary fields
                     "chunk_id": record["chunk_id"],
-
                     "page": record["page"],
-
                     "text": record["text"],
 
-                    "metadata": record["metadata"],
+                    # Frequently queried metadata
+                    "source": metadata.get("source"),
+                    "source_name": metadata.get("source_name"),
+                    "page_number": metadata.get("page_number"),
+                    "token_count": metadata.get("token_count"),
+                    "content_type": metadata.get("content_type"),
+
+                    # Keep the original metadata
+                    "metadata": metadata,
                 }
 
                 points.append(
