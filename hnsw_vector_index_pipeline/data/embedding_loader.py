@@ -15,11 +15,13 @@ class EmbeddingLoader:
         -------
         vectors : np.ndarray
         ids : list[int]
-        payloads : dict[int, dict]
+        chunk_ids : list[str]
+        payloads : dict[str, dict]
         """
 
         vectors = []
         ids = []
+        chunk_ids = []
         payloads = {}
 
         with open(file_path, "r", encoding="utf-8") as file:
@@ -30,9 +32,14 @@ class EmbeddingLoader:
 
                 vectors.append(record["embedding"])
 
+                # Integer labels for HNSW
                 ids.append(idx)
 
-                payloads[idx] = {
+                # Actual document chunk IDs
+                chunk_ids.append(record["chunk_id"])
+
+                # Payloads keyed by chunk_id
+                payloads[record["chunk_id"]] = {
                     "chunk_id": record["chunk_id"],
                     "text": record["text"],
                     "page": record["page"],
@@ -41,4 +48,4 @@ class EmbeddingLoader:
 
         vectors = np.asarray(vectors, dtype=np.float32)
 
-        return vectors, ids, payloads
+        return vectors, ids, chunk_ids, payloads

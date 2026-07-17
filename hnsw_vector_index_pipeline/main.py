@@ -38,7 +38,11 @@ def main():
             f"Embeddings file not found:\n{EMBEDDINGS_FILE}"
         )
 
-    vectors, ids, payloads = EmbeddingLoader.load_embeddings(
+    # vectors, ids, payloads = EmbeddingLoader.load_embeddings(
+    #     EMBEDDINGS_FILE
+    # )
+
+    vectors, ids, chunk_ids, payloads = EmbeddingLoader.load_embeddings(
         EMBEDDINGS_FILE
     )
 
@@ -81,8 +85,33 @@ def main():
         INDEX_FILE,
     )
 
+    # IndexManager.save_mapping(
+    #     payloads,
+    #     ID_MAPPING_FILE,
+    # )
+
+    # id_mapping = {
+    #     str(label): chunk_id
+    #     for label, chunk_id in enumerate(ids)
+    # }
+
+    # IndexManager.save_mapping(
+    #     id_mapping,
+    #     ID_MAPPING_FILE,
+    # )
+
+    # id_mapping = {
+    #     str(label): chunk_id
+    #     for label, chunk_id in enumerate(ids)
+    # }
+
+    id_mapping = {
+        str(label): chunk_id
+        for label, chunk_id in zip(ids, chunk_ids)
+    }
+
     IndexManager.save_mapping(
-        payloads,
+        id_mapping,
         ID_MAPPING_FILE,
     )
 
