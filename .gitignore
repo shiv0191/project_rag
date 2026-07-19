@@ -219,3 +219,18 @@ __marimo__/
 __roadmap_local_file__/
 src_bkp_pymupdf/
 Note.txt
+commands.txt
+
+models/ ### to avoid uploading large files to git
+**/models/
+*.safetensors
+*.bin
+models_bkp/
+
+**/models/
+**/models_bkp/
+*.bin
+*.safetensors
+
+bge-base-en-v1.5/
+**bge-base-en-v1.5/
