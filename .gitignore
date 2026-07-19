@@ -234,3 +234,6 @@ models_bkp/
 
 bge-base-en-v1.5/
 **bge-base-en-v1.5/
+
+bge-reranker-base/
+**bge-reranker-base/
